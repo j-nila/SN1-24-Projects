@@ -1,0 +1,601 @@
+,showID,questionID,questionNumber,category,question,questionTime,answerOption,answerText,isCorrect,count,answerTime
+0,5091813,38301,1,Educational,Which of these is a vehicle with three wheels?,1:04:43 PM,A,Tricycle,TRUE,694486,1:05:08 PM
+1,5091813,38301,1,Educational,Which of these is a vehicle with three wheels?,1:04:43 PM,B,Trick Daddy,FALSE,2046,1:05:08 PM
+2,5091813,38301,1,Educational,Which of these is a vehicle with three wheels?,1:04:43 PM,C,Triceratops,FALSE,1814,1:05:08 PM
+3,5091813,38302,2,,What word does Aretha Franklin spell out in her iconic 1967 hit?,1:05:22 PM,A,Respect,TRUE,647036,1:05:47 PM
+4,5091813,38302,2,,What word does Aretha Franklin spell out in her iconic 1967 hit?,1:05:22 PM,B,Robocop,FALSE,14120,1:05:47 PM
+5,5091813,38302,2,,What word does Aretha Franklin spell out in her iconic 1967 hit?,1:05:22 PM,C,Ridonkulous,FALSE,22664,1:05:47 PM
+6,5091813,38303,3,Geography,"What Canadian province's name is Latin for ""New Scotland""?",1:06:03 PM,A,Nova Scotia,TRUE,597330,1:06:23 PM
+7,5091813,38303,3,Geography,"What Canadian province's name is Latin for ""New Scotland""?",1:06:03 PM,B,Ontario,FALSE,30241,1:06:23 PM
+8,5091813,38303,3,Geography,"What Canadian province's name is Latin for ""New Scotland""?",1:06:03 PM,C,Alberta,FALSE,11006,1:06:23 PM
+9,5091813,38308,4,Science ,Which of these speeds is typically fastest?,1:06:40 PM,A,Speed of light,TRUE,528612,1:07:08 PM
+10,5091813,38308,4,Science ,Which of these speeds is typically fastest?,1:06:40 PM,B,Speed of sound,FALSE,49213,1:07:08 PM
+11,5091813,38308,4,Science ,Which of these speeds is typically fastest?,1:06:40 PM,C,They're the same,FALSE,13655,1:07:08 PM
+12,5091813,38307,5,Sports,Three consecutive strikes is known as a turkey in which of these sports?,1:07:19 PM,A,Bowling,TRUE,447067,1:07:45 PM
+13,5091813,38307,5,Sports,Three consecutive strikes is known as a turkey in which of these sports?,1:07:19 PM,B,Cricket,FALSE,72967,1:07:45 PM
+14,5091813,38307,5,Sports,Three consecutive strikes is known as a turkey in which of these sports?,1:07:19 PM,C,Volleyball,FALSE,5253,1:07:45 PM
+15,5091813,38306,6,Music,"At the start of his career, Justin Bieber was mentored by which of these musicians?",1:07:59 PM,A,Jay-Z,FALSE,67431,1:08:26 PM
+16,5091813,38306,6,Music,"At the start of his career, Justin Bieber was mentored by which of these musicians?",1:07:59 PM,B,Usher,TRUE,361658,1:08:26 PM
+17,5091813,38306,6,Music,"At the start of his career, Justin Bieber was mentored by which of these musicians?",1:07:59 PM,C,DJ Khaled,FALSE,15741,1:08:26 PM
+18,5091813,38304,7,Educational,"By definition, which of these words can refer to a college graduation ceremony?",1:08:42 PM,A,Commencement,TRUE,334372,1:09:06 PM
+19,5091813,38304,7,Educational,"By definition, which of these words can refer to a college graduation ceremony?",1:08:42 PM,B,Matriculation,FALSE,19522,1:09:06 PM
+20,5091813,38304,7,Educational,"By definition, which of these words can refer to a college graduation ceremony?",1:08:42 PM,C,Initiation,FALSE,6475,1:09:06 PM
+21,5091813,38309,8,Sports,Which of these baseball pitches puts the least spin on the ball?,1:09:20 PM,A,Curveball,FALSE,19501,1:09:45 PM
+22,5091813,38309,8,Sports,Which of these baseball pitches puts the least spin on the ball?,1:09:20 PM,B,Fastball,FALSE,137906,1:09:45 PM
+23,5091813,38309,8,Sports,Which of these baseball pitches puts the least spin on the ball?,1:09:20 PM,C,Knuckleball,TRUE,175544,1:09:45 PM
+24,5091813,38310,9,Entertainment,The name of Shakespeare's only son is one letter off from the title of what play?,1:10:03 PM,A,Macbeth,FALSE,23642,1:10:33 PM
+25,5091813,38310,9,Entertainment,The name of Shakespeare's only son is one letter off from the title of what play?,1:10:03 PM,B,Othello,FALSE,73777,1:10:33 PM
+26,5091813,38310,9,Entertainment,The name of Shakespeare's only son is one letter off from the title of what play?,1:10:03 PM,C,Hamlet,TRUE,76125,1:10:33 PM
+27,5091813,38305,10,Educational,"Which of these terms comes from a French phrase that means ""come help me""?",1:10:48 PM,A,Ahoy,FALSE,5704,1:11:18 PM
+28,5091813,38305,10,Educational,"Which of these terms comes from a French phrase that means ""come help me""?",1:10:48 PM,B,Mayday,TRUE,50854,1:11:18 PM
+29,5091813,38305,10,Educational,"Which of these terms comes from a French phrase that means ""come help me""?",1:10:48 PM,C,SOS,FALSE,23035,1:11:18 PM
+30,5091813,38311,11,Entertainment,Which of these celebrities does NOT go by his middle name?,1:11:33 PM,A,Bruce Willis,FALSE,14666,1:11:58 PM
+31,5091813,38311,11,Entertainment,Which of these celebrities does NOT go by his middle name?,1:11:33 PM,B,Ashton Kutcher,FALSE,14272,1:11:58 PM
+32,5091813,38311,11,Entertainment,Which of these celebrities does NOT go by his middle name?,1:11:33 PM,C,Justin Timberlake,TRUE,22025,1:11:58 PM
+33,5091813,38312,12,History,"Of these three states, which has been the birthplace of the most US presidents?",1:12:38 PM,A,Illinois,FALSE,12871,1:13:20 PM
+34,5091813,38312,12,History,"Of these three states, which has been the birthplace of the most US presidents?",1:12:38 PM,B,Vermont,TRUE,7518,1:13:20 PM
+35,5091813,38312,12,History,"Of these three states, which has been the birthplace of the most US presidents?",1:12:38 PM,C,Georgia,FALSE,3326,1:13:20 PM
+36,5091819,38313,1,Movies,"What wise creature once said, ""Do, or do not. There is no try""?",7:03:27 PM,A,Abraham Lincoln,FALSE,145274,7:03:47 PM
+37,5091819,38313,1,Movies,"What wise creature once said, ""Do, or do not. There is no try""?",7:03:27 PM,B,Yoda,TRUE,646336,7:03:47 PM
+38,5091819,38313,1,Movies,"What wise creature once said, ""Do, or do not. There is no try""?",7:03:27 PM,C,Margaret Thatcher,FALSE,40636,7:03:47 PM
+39,5091819,38320,2,Educational,The Norse god Thor is famous for wielding what kind of weapon?,7:04:06 PM,A,Hammer,TRUE,628306,7:04:25 PM
+40,5091819,38320,2,Educational,The Norse god Thor is famous for wielding what kind of weapon?,7:04:06 PM,B,Nunchucks,FALSE,9808,7:04:25 PM
+41,5091819,38320,2,Educational,The Norse god Thor is famous for wielding what kind of weapon?,7:04:06 PM,C,Cattle prod,FALSE,4398,7:04:25 PM
+42,5091819,38314,3,Educational,"An item that is not quite good enough is often said to ""not cut the"" what?",7:04:40 PM,A,Mustard,TRUE,487704,7:04:58 PM
+43,5091819,38314,3,Educational,"An item that is not quite good enough is often said to ""not cut the"" what?",7:04:40 PM,B,Ketchup,FALSE,73822,7:04:58 PM
+44,5091819,38314,3,Educational,"An item that is not quite good enough is often said to ""not cut the"" what?",7:04:40 PM,C,Mayonnaise,FALSE,48248,7:04:58 PM
+45,5091819,38315,4,Educational,"The French word ""encore"" literally translates to what?",7:05:14 PM,A,Again,TRUE,468973,7:05:35 PM
+46,5091819,38315,4,Educational,"The French word ""encore"" literally translates to what?",7:05:14 PM,B,No more,FALSE,5935,7:05:35 PM
+47,5091819,38315,4,Educational,"The French word ""encore"" literally translates to what?",7:05:14 PM,C,Music please,FALSE,11327,7:05:35 PM
+48,5091819,38316,5,Food & Drink,"In mock apple pie recipes, what is traditionally used as a substitute ingredient for apples?",7:05:52 PM,A,Lima beans,FALSE,155289,7:06:14 PM
+49,5091819,38316,5,Food & Drink,"In mock apple pie recipes, what is traditionally used as a substitute ingredient for apples?",7:05:52 PM,B,Buttery crackers,TRUE,220599,7:06:14 PM
+50,5091819,38316,5,Food & Drink,"In mock apple pie recipes, what is traditionally used as a substitute ingredient for apples?",7:05:52 PM,C,Blue cheese,FALSE,52901,7:06:14 PM
+51,5091819,38317,6,Movies,"Whose concert do the Ninja Turtles attend in the film ""The Secret of the Ooze""?",7:06:28 PM,A,Will Smith,FALSE,19599,7:06:53 PM
+52,5091819,38317,6,Movies,"Whose concert do the Ninja Turtles attend in the film ""The Secret of the Ooze""?",7:06:28 PM,B,Vanilla Ice,TRUE,114839,7:06:53 PM
+53,5091819,38317,6,Movies,"Whose concert do the Ninja Turtles attend in the film ""The Secret of the Ooze""?",7:06:28 PM,C,MC Hammer,FALSE,84368,7:06:53 PM
+54,5091819,38321,7,Literature ,JK Rowling has also written books under what first name?,7:07:14 PM,A,Joanna,FALSE,43287,7:07:33 PM
+55,5091819,38321,7,Literature ,JK Rowling has also written books under what first name?,7:07:14 PM,B,Kasey,FALSE,19409,7:07:33 PM
+56,5091819,38321,7,Literature ,JK Rowling has also written books under what first name?,7:07:14 PM,C,Robert,TRUE,52185,7:07:33 PM
+57,5091819,38322,8,Science ,"On average, people blink least frequently at what stage of life?",7:07:54 PM,A,Adulthood,FALSE,9939,7:08:13 PM
+58,5091819,38322,8,Science ,"On average, people blink least frequently at what stage of life?",7:07:54 PM,B,Infancy,TRUE,36857,7:08:13 PM
+59,5091819,38322,8,Science ,"On average, people blink least frequently at what stage of life?",7:07:54 PM,C,Adolescence,FALSE,5651,7:08:13 PM
+60,5091819,38318,9,History,In which European country did Kim Jong-un attend boarding school?,7:08:31 PM,A,Monaco,FALSE,7384,7:08:55 PM
+61,5091819,38318,9,History,In which European country did Kim Jong-un attend boarding school?,7:08:31 PM,B,England,FALSE,6056,7:08:55 PM
+62,5091819,38318,9,History,In which European country did Kim Jong-un attend boarding school?,7:08:31 PM,C,Switzerland,TRUE,23671,7:08:55 PM
+63,5091819,38319,10,Entertainment,Who wrote the most Tony Award-winning musical of all time?,7:09:13 PM,A,Elton John & Tim Rice,FALSE,8398,7:09:36 PM
+64,5091819,38319,10,Entertainment,Who wrote the most Tony Award-winning musical of all time?,7:09:13 PM,B,Mel Brooks,TRUE,6840,7:09:36 PM
+65,5091819,38319,10,Entertainment,Who wrote the most Tony Award-winning musical of all time?,7:09:13 PM,C,Lin-Manuel Miranda,FALSE,8270,7:09:36 PM
+66,5091819,38323,11,Geography,Which country does NOT contain land that was once a part of the Ottoman Empire?,7:10:01 PM,A,Belarus,TRUE,3258,7:10:21 PM
+67,5091819,38323,11,Geography,Which country does NOT contain land that was once a part of the Ottoman Empire?,7:10:01 PM,B,Egypt,FALSE,2264,7:10:21 PM
+68,5091819,38323,11,Geography,Which country does NOT contain land that was once a part of the Ottoman Empire?,7:10:01 PM,C,Greece,FALSE,1668,7:10:21 PM
+69,5091819,38324,12,Science ,Which of these inner planets is typically hotter than the others?,7:10:46 PM,A,Mars,FALSE,251,7:11:14 PM
+70,5091819,38324,12,Science ,Which of these inner planets is typically hotter than the others?,7:10:46 PM,B,Mercury,FALSE,1507,7:11:14 PM
+71,5091819,38324,12,Science ,Which of these inner planets is typically hotter than the others?,7:10:46 PM,C,Venus,TRUE,1599,7:11:14 PM
+72,5101813,38106,1,Literature ,"According to a classic fairy tale, who ran afoul of the Three Bears?",1:04:06 PM,A,Arnold Schwarzenegger,FALSE,8728,1:04:30 PM
+73,5101813,38106,1,Literature ,"According to a classic fairy tale, who ran afoul of the Three Bears?",1:04:06 PM,B,Goldilocks,TRUE,638366,1:04:30 PM
+74,5101813,38106,1,Literature ,"According to a classic fairy tale, who ran afoul of the Three Bears?",1:04:06 PM,C,Usain Bolt,FALSE,4335,1:04:30 PM
+75,5101813,38107,2,Food & Drink,In which of these places are you most likely to find croutons?,1:04:43 PM,A,Babylonian bazaar,FALSE,6360,1:05:01 PM
+76,5101813,38107,2,Food & Drink,In which of these places are you most likely to find croutons?,1:04:43 PM,B,Salad bar,TRUE,621084,1:05:01 PM
+77,5101813,38107,2,Food & Drink,In which of these places are you most likely to find croutons?,1:04:43 PM,C,Cattle car,FALSE,2968,1:05:01 PM
+78,5101813,38110,3,History,What do the 13 stripes on the American flag represent?,1:05:12 PM,A,First 13 states,TRUE,549420,1:05:38 PM
+79,5101813,38110,3,History,What do the 13 stripes on the American flag represent?,1:05:12 PM,B,Founding fathers,FALSE,51110,1:05:38 PM
+80,5101813,38110,3,History,What do the 13 stripes on the American flag represent?,1:05:12 PM,C,Year of US independence,FALSE,10172,1:05:38 PM
+81,5101813,38108,4,Educational,Which of these aquatic terms is a palindrome?,1:05:52 PM,A,Sonar,FALSE,127731,1:06:21 PM
+82,5101813,38108,4,Educational,Which of these aquatic terms is a palindrome?,1:05:52 PM,B,Kayak,TRUE,367480,1:06:21 PM
+83,5101813,38108,4,Educational,Which of these aquatic terms is a palindrome?,1:05:52 PM,C,Tugboat,FALSE,46538,1:06:21 PM
+84,5101813,38109,5,Educational,"If an integer is a multiple of five, its last digit has to be either five or what?",1:06:40 PM,A,Zero,TRUE,344177,1:07:03 PM
+85,5101813,38109,5,Educational,"If an integer is a multiple of five, its last digit has to be either five or what?",1:06:40 PM,B,Three,FALSE,14650,1:07:03 PM
+86,5101813,38109,5,Educational,"If an integer is a multiple of five, its last digit has to be either five or what?",1:06:40 PM,C,Six,FALSE,3895,1:07:03 PM
+87,5101813,38112,6,Movies,Which of these classic movie trilogies had three different directors?,1:07:21 PM,A,Back to the Future,FALSE,105669,1:07:48 PM
+88,5101813,38112,6,Movies,Which of these classic movie trilogies had three different directors?,1:07:21 PM,B,Star Wars IV-VI,TRUE,126719,1:07:48 PM
+89,5101813,38112,6,Movies,Which of these classic movie trilogies had three different directors?,1:07:21 PM,C,The Godfather,FALSE,99258,1:07:48 PM
+90,5101813,38113,7,Business,Which of these professionals would most commonly use the term ligature?,1:08:09 PM,A,Chef,FALSE,19788,1:08:32 PM
+91,5101813,38113,7,Business,Which of these professionals would most commonly use the term ligature?,1:08:09 PM,B,Typographer,TRUE,79852,1:08:32 PM
+92,5101813,38113,7,Business,Which of these professionals would most commonly use the term ligature?,1:08:09 PM,C,Firefighter,FALSE,28244,1:08:32 PM
+93,5101813,38111,8,Music,Which of these musical clefs is NOT commonly used?,1:08:48 PM,A,E clef,TRUE,32709,1:09:19 PM
+94,5101813,38111,8,Music,Which of these musical clefs is NOT commonly used?,1:08:48 PM,B,F clef,FALSE,30008,1:09:19 PM
+95,5101813,38111,8,Music,Which of these musical clefs is NOT commonly used?,1:08:48 PM,C,G clef,FALSE,17003,1:09:19 PM
+96,5101813,38115,9,Sports,Which sports league's commissioner has a last name found on the periodic table?,1:09:36 PM,A,NBA,TRUE,14211,1:10:04 PM
+97,5101813,38115,9,Sports,Which sports league's commissioner has a last name found on the periodic table?,1:09:36 PM,B,NFL,FALSE,5944,1:10:04 PM
+98,5101813,38115,9,Sports,Which sports league's commissioner has a last name found on the periodic table?,1:09:36 PM,C,NHL,FALSE,12872,1:10:04 PM
+99,5101813,38116,10,History,"During the English Civil War, how did James II reportedly escape St. James's Palace?",1:10:18 PM,A,Crawled through sewers,FALSE,2985,1:10:41 PM
+100,5101813,38116,10,History,"During the English Civil War, how did James II reportedly escape St. James's Palace?",1:10:18 PM,B,Hid in a crate,FALSE,1826,1:10:41 PM
+101,5101813,38116,10,History,"During the English Civil War, how did James II reportedly escape St. James's Palace?",1:10:18 PM,C,Disguised as a woman,TRUE,9492,1:10:41 PM
+102,5101813,38114,11,Music,"Members of the band behind ""Dancing Queen"" also co-wrote what '80s musical?",1:11:01 PM,A,Chess,TRUE,1689,1:11:30 PM
+103,5101813,38114,11,Music,"Members of the band behind ""Dancing Queen"" also co-wrote what '80s musical?",1:11:01 PM,B,Starlight Express,FALSE,5756,1:11:30 PM
+104,5101813,38114,11,Music,"Members of the band behind ""Dancing Queen"" also co-wrote what '80s musical?",1:11:01 PM,C,Into the Woods,FALSE,2124,1:11:30 PM
+105,5101813,38117,12,Science ,The only person to win two solo Nobel Prizes won them in what fields?,1:12:18 PM,A,Chemistry / Peace,TRUE,608,1:12:55 PM
+106,5101813,38117,12,Science ,The only person to win two solo Nobel Prizes won them in what fields?,1:12:18 PM,B,Chemistry / Physics,FALSE,985,1:12:55 PM
+107,5101813,38117,12,Science ,The only person to win two solo Nobel Prizes won them in what fields?,1:12:18 PM,C,Chemistry / Chemistry,FALSE,338,1:12:55 PM
+108,5101819,38421,1,Food & Drink,Which of these would nutritionists most likely recommend as a healthy snack?,7:05:11 PM,A,Big bag of sugar,FALSE,3778,7:05:31 PM
+109,5101819,38421,1,Food & Drink,Which of these would nutritionists most likely recommend as a healthy snack?,7:05:11 PM,B,Fresh fruit,TRUE,916993,7:05:31 PM
+110,5101819,38421,1,Food & Drink,Which of these would nutritionists most likely recommend as a healthy snack?,7:05:11 PM,C,Gallon of gravy,FALSE,1802,7:05:31 PM
+111,5101819,38423,2,Nature,Which of these animals typically pollinates flowers?,7:05:43 PM,A,Flying squirrels,FALSE,1709,7:06:03 PM
+112,5101819,38423,2,Nature,Which of these animals typically pollinates flowers?,7:05:43 PM,B,Honeybees,TRUE,907490,7:06:03 PM
+113,5101819,38423,2,Nature,Which of these animals typically pollinates flowers?,7:05:43 PM,C,Sand sharks,FALSE,837,7:06:03 PM
+114,5101819,38422,3,Educational,"According to an old saying, ""time and tide"" do what?",7:06:16 PM,A,Wait for no man,TRUE,860822,7:06:39 PM
+115,5101819,38422,3,Educational,"According to an old saying, ""time and tide"" do what?",7:06:16 PM,B,Bake in a pan,FALSE,27808,7:06:39 PM
+116,5101819,38422,3,Educational,"According to an old saying, ""time and tide"" do what?",7:06:16 PM,C,Hate raisin bran,FALSE,6612,7:06:39 PM
+117,5101819,38429,4,TV,"What did the ""M"" in the TV channel MTV originally stand for?",7:06:49 PM,A,Mirth,FALSE,2332,7:07:13 PM
+118,5101819,38429,4,TV,"What did the ""M"" in the TV channel MTV originally stand for?",7:06:49 PM,B,Music,TRUE,841336,7:07:13 PM
+119,5101819,38429,4,TV,"What did the ""M"" in the TV channel MTV originally stand for?",7:06:49 PM,C,Mayhem,FALSE,12928,7:07:13 PM
+120,5101819,38424,5,Science ,Which of these is a classic component of the scientific method?,7:07:27 PM,A,Voting on results,FALSE,5783,7:07:56 PM
+121,5101819,38424,5,Science ,Which of these is a classic component of the scientific method?,7:07:27 PM,B,Testing hypotheses,TRUE,825922,7:07:56 PM
+122,5101819,38424,5,Science ,Which of these is a classic component of the scientific method?,7:07:27 PM,C,Cherry-picking data,FALSE,4300,7:07:56 PM
+123,5101819,38431,6,Geography,What is the capital of Turkey?,7:08:09 PM,A,Iznik,FALSE,27447,7:08:38 PM
+124,5101819,38431,6,Geography,What is the capital of Turkey?,7:08:09 PM,B,Ankara,TRUE,211344,7:08:38 PM
+125,5101819,38431,6,Geography,What is the capital of Turkey?,7:08:09 PM,C,Istanbul,FALSE,582689,7:08:38 PM
+126,5101819,38427,7,Games,"In the board game Othello, also known as Reversi, what pieces may NOT be flipped?",7:09:05 PM,A,Edge pieces,FALSE,47270,7:09:32 PM
+127,5101819,38427,7,Games,"In the board game Othello, also known as Reversi, what pieces may NOT be flipped?",7:09:05 PM,B,Center pieces,FALSE,56721,7:09:32 PM
+128,5101819,38427,7,Games,"In the board game Othello, also known as Reversi, what pieces may NOT be flipped?",7:09:05 PM,C,Corner pieces,TRUE,106664,7:09:32 PM
+129,5101819,38432,8,Nature,Earth's tallest known living tree is located closest to which of these cities?,7:09:46 PM,A,Kathmandu,FALSE,15059,7:10:10 PM
+130,5101819,38432,8,Nature,Earth's tallest known living tree is located closest to which of these cities?,7:09:46 PM,B,Rio de Janeiro,FALSE,13608,7:10:10 PM
+131,5101819,38432,8,Nature,Earth's tallest known living tree is located closest to which of these cities?,7:09:46 PM,C,Sacramento,TRUE,78986,7:10:10 PM
+132,5101819,38435,9,Entertainment,Which of these is a song in the longest-running show in Broadway history?,7:10:24 PM,A,Endless Night,FALSE,17940,7:10:48 PM
+133,5101819,38435,9,Entertainment,Which of these is a song in the longest-running show in Broadway history?,7:10:24 PM,B,Music of the Night,TRUE,47396,7:10:48 PM
+134,5101819,38435,9,Entertainment,Which of these is a song in the longest-running show in Broadway history?,7:10:24 PM,C,Chicago After Midnight,FALSE,13185,7:10:48 PM
+135,5101819,38426,10,History,Which of these figures from the American West did NOT work as a sheriff?,7:11:02 PM,A,Butch Cassidy,TRUE,27437,7:11:31 PM
+136,5101819,38426,10,History,Which of these figures from the American West did NOT work as a sheriff?,7:11:02 PM,B,Wild Bill Hickok,FALSE,10111,7:11:31 PM
+137,5101819,38426,10,History,Which of these figures from the American West did NOT work as a sheriff?,7:11:02 PM,C,Bat Masterson,FALSE,9574,7:11:31 PM
+138,5101819,38436,11,Educational,"According to mathematical terminology, what ""shape"" is the number 28?",7:11:48 PM,A,Octagonal,FALSE,14000,7:12:10 PM
+139,5101819,38436,11,Educational,"According to mathematical terminology, what ""shape"" is the number 28?",7:11:48 PM,B,Square,FALSE,6968,7:12:10 PM
+140,5101819,38436,11,Educational,"According to mathematical terminology, what ""shape"" is the number 28?",7:11:48 PM,C,Triangular,TRUE,6017,7:12:10 PM
+141,5101819,38437,12,Educational,Which of these is both a current world leader and a diacritical mark?,7:12:53 PM,A,Cedilla,FALSE,866,7:13:29 PM
+142,5101819,38437,12,Educational,Which of these is both a current world leader and a diacritical mark?,7:12:53 PM,B,Modi,FALSE,1863,7:13:29 PM
+143,5101819,38437,12,Educational,Which of these is both a current world leader and a diacritical mark?,7:12:53 PM,C,Macron,TRUE,3892,7:13:29 PM
+144,5111813,38441,1,History,"In the early 20th century, many immigrants to the US passed through what island?",1:04:06 PM,A,Treasure Island,FALSE,38439,1:04:30 PM
+145,5111813,38441,1,History,"In the early 20th century, many immigrants to the US passed through what island?",1:04:06 PM,B,Ellis Island,TRUE,470597,1:04:30 PM
+146,5111813,38441,1,History,"In the early 20th century, many immigrants to the US passed through what island?",1:04:06 PM,C,Fantasy Island,FALSE,4443,1:04:30 PM
+147,5111813,38443,2,Sports,Which of these is the name of an NFL team?,1:05:02 PM,A,Detroit Dwaynes,FALSE,11109,1:05:23 PM
+148,5111813,38443,2,Sports,Which of these is the name of an NFL team?,1:05:02 PM,B,Buffalo Bills,TRUE,444437,1:05:23 PM
+149,5111813,38443,2,Sports,Which of these is the name of an NFL team?,1:05:02 PM,C,Philadelphia Freds,FALSE,7944,1:05:23 PM
+150,5111813,38449,3,Food & Drink,"When Neil Armstrong landed on the moon, what did he famously say he took?",1:05:37 PM,A,An epic jump,FALSE,6667,1:05:58 PM
+151,5111813,38449,3,Food & Drink,"When Neil Armstrong landed on the moon, what did he famously say he took?",1:05:37 PM,B,One small step,TRUE,431880,1:05:58 PM
+152,5111813,38449,3,Food & Drink,"When Neil Armstrong landed on the moon, what did he famously say he took?",1:05:37 PM,C,A high flip,FALSE,1496,1:05:58 PM
+153,5111813,38446,4,Food & Drink,What food is thought to get its name from resembling a dachshund?,1:06:11 PM,A,Bagel,FALSE,17695,1:06:30 PM
+154,5111813,38446,4,Food & Drink,What food is thought to get its name from resembling a dachshund?,1:06:11 PM,B,Couscous,FALSE,7166,1:06:30 PM
+155,5111813,38446,4,Food & Drink,What food is thought to get its name from resembling a dachshund?,1:06:11 PM,C,Hot dog,TRUE,403199,1:06:30 PM
+156,5111813,38450,5,Science ,"According to astronomers, which comet will reappear this century?",1:06:43 PM,A,Comet Hale-Bopp,FALSE,29991,1:07:07 PM
+157,5111813,38450,5,Science ,"According to astronomers, which comet will reappear this century?",1:06:43 PM,B,Halley's Comet,TRUE,347035,1:07:07 PM
+158,5111813,38450,5,Science ,"According to astronomers, which comet will reappear this century?",1:06:43 PM,C,Caesar's Comet,FALSE,20932,1:07:07 PM
+159,5111813,38448,6,TV,Jennifer Lopez first regularly appeared on what TV show?,1:07:22 PM,A,In Living Color,TRUE,241471,1:07:46 PM
+160,5111813,38448,6,TV,Jennifer Lopez first regularly appeared on what TV show?,1:07:22 PM,B,Shades of Blue,FALSE,54524,1:07:46 PM
+161,5111813,38448,6,TV,Jennifer Lopez first regularly appeared on what TV show?,1:07:22 PM,C,Baywatch,FALSE,47912,1:07:46 PM
+162,5111813,38454,7,Educational,"If a British person says they're ""sending you to Coventry,"" what are they most likely about to give you?",1:08:01 PM,A,Silent treatment,TRUE,174605,1:08:24 PM
+163,5111813,38454,7,Educational,"If a British person says they're ""sending you to Coventry,"" what are they most likely about to give you?",1:08:01 PM,B,New task at work,FALSE,37519,1:08:24 PM
+164,5111813,38454,7,Educational,"If a British person says they're ""sending you to Coventry,"" what are they most likely about to give you?",1:08:01 PM,C,Anonymous gift,FALSE,20471,1:08:24 PM
+165,5111813,38455,8,Educational,Which of these slang military phrases is used to express appreciation?,1:08:35 PM,A,Tango Yankee,TRUE,88722,1:08:57 PM
+166,5111813,38455,8,Educational,Which of these slang military phrases is used to express appreciation?,1:08:35 PM,B,Whiskey Charlie,FALSE,73741,1:08:57 PM
+167,5111813,38455,8,Educational,Which of these slang military phrases is used to express appreciation?,1:08:35 PM,C,Sierra Hotel,FALSE,10058,1:08:57 PM
+168,5111813,38456,9,Educational,Which of these countries' flags does NOT feature a large circle?,1:09:11 PM,A,Laos,FALSE,21999,1:09:37 PM
+169,5111813,38456,9,Educational,Which of these countries' flags does NOT feature a large circle?,1:09:11 PM,B,Brazil,FALSE,16930,1:09:37 PM
+170,5111813,38456,9,Educational,Which of these countries' flags does NOT feature a large circle?,1:09:11 PM,C,Croatia,TRUE,50069,1:09:37 PM
+171,5111813,38451,10,Music,Which of these bands has a lead singer who is literally named Savage?,1:09:54 PM,A,My Morning Jacket,FALSE,14602,1:10:23 PM
+172,5111813,38451,10,Music,Which of these bands has a lead singer who is literally named Savage?,1:09:54 PM,B,Arcade Fire,FALSE,25802,1:10:23 PM
+173,5111813,38451,10,Music,Which of these bands has a lead singer who is literally named Savage?,1:09:54 PM,C,Parquet Courts,TRUE,9369,1:10:23 PM
+174,5111813,38452,11,Business,"In the '90s, a group of out-of-work pilots from Eastern Airlines formed a new airline named after a what?",1:10:48 PM,A,Tropical storm,FALSE,2171,1:11:10 PM
+175,5111813,38452,11,Business,"In the '90s, a group of out-of-work pilots from Eastern Airlines formed a new airline named after a what?",1:10:48 PM,B,Flightless bird,TRUE,4533,1:11:10 PM
+176,5111813,38452,11,Business,"In the '90s, a group of out-of-work pilots from Eastern Airlines formed a new airline named after a what?",1:10:48 PM,C,Mythical creature,FALSE,3408,1:11:10 PM
+177,5111813,38453,12,Movies,"Who was NOT involved in the production of Michael Jackson's film ""Captain EO""?",1:11:45 PM,A,George Lucas,FALSE,1521,1:12:26 PM
+178,5111813,38453,12,Movies,"Who was NOT involved in the production of Michael Jackson's film ""Captain EO""?",1:11:45 PM,B,Steven Spielberg,TRUE,1432,1:12:26 PM
+179,5111813,38453,12,Movies,"Who was NOT involved in the production of Michael Jackson's film ""Captain EO""?",1:11:45 PM,C,Francis Ford Coppola,FALSE,1838,1:12:26 PM
+180,5111819,39210,1,Nature,Where does rain naturally fall from?,7:04:41 PM,A,Clouds,TRUE,807669,7:05:02 PM
+181,5111819,39210,1,Nature,Where does rain naturally fall from?,7:04:41 PM,B,Rainbow trout,FALSE,2085,7:05:02 PM
+182,5111819,39210,1,Nature,Where does rain naturally fall from?,7:04:41 PM,C,Raindeer hooves,FALSE,650,7:05:02 PM
+183,5111819,39209,2,Nature,Ducks are known for making which of these sounds?,7:05:18 PM,A,Quadrillion,FALSE,823,7:05:37 PM
+184,5111819,39209,2,Nature,Ducks are known for making which of these sounds?,7:05:18 PM,B,Quavo,FALSE,1680,7:05:37 PM
+185,5111819,39209,2,Nature,Ducks are known for making which of these sounds?,7:05:18 PM,C,Quack,TRUE,798549,7:05:37 PM
+186,5111819,39211,3,Educational,American football games typically take place in a structure called what?,7:06:08 PM,A,Stadium,TRUE,787655,7:06:28 PM
+187,5111819,39211,3,Educational,American football games typically take place in a structure called what?,7:06:08 PM,B,Auditorium,FALSE,2446,7:06:28 PM
+188,5111819,39211,3,Educational,American football games typically take place in a structure called what?,7:06:08 PM,C,Amphitheater,FALSE,871,7:06:28 PM
+189,5111819,39212,4,Food & Drink,What is NOT one of the three ingredients in classic s'mores?,7:06:41 PM,A,Peanut butter,TRUE,761659,7:07:10 PM
+190,5111819,39212,4,Food & Drink,What is NOT one of the three ingredients in classic s'mores?,7:06:41 PM,B,Graham cracker,FALSE,11800,7:07:10 PM
+191,5111819,39212,4,Food & Drink,What is NOT one of the three ingredients in classic s'mores?,7:06:41 PM,C,Chocolate,FALSE,6941,7:07:10 PM
+192,5111819,39213,5,Educational,What punctuation mark best introduces a list within a sentence?,7:07:21 PM,A,Semicolon,FALSE,258221,7:07:48 PM
+193,5111819,39213,5,Educational,What punctuation mark best introduces a list within a sentence?,7:07:21 PM,B,Hyphen,FALSE,58556,7:07:48 PM
+194,5111819,39213,5,Educational,What punctuation mark best introduces a list within a sentence?,7:07:21 PM,C,Colon,TRUE,424665,7:07:48 PM
+195,5111819,39215,6,Music,Which of these figures is a famous composer?,7:08:04 PM,A,Seymour Glass,FALSE,116804,7:08:30 PM
+196,5111819,39215,6,Music,Which of these figures is a famous composer?,7:08:04 PM,B,Ira Glass,FALSE,120562,7:08:30 PM
+197,5111819,39215,6,Music,Which of these figures is a famous composer?,7:08:04 PM,C,Philip Glass,TRUE,186005,7:08:30 PM
+198,5111819,39217,7,TV,"Before ""Seinfeld,"" Larry David and Michael Richards both worked on what live comedy TV show?",7:08:43 PM,A,Saturday Night Live,FALSE,111815,7:09:14 PM
+199,5111819,39217,7,TV,"Before ""Seinfeld,"" Larry David and Michael Richards both worked on what live comedy TV show?",7:08:43 PM,B,SCTV,FALSE,42607,7:09:14 PM
+200,5111819,39217,7,TV,"Before ""Seinfeld,"" Larry David and Michael Richards both worked on what live comedy TV show?",7:08:43 PM,C,Fridays,TRUE,30616,7:09:14 PM
+201,5111819,39214,8,Educational,Which of these words is NOT a portmanteau?,7:09:38 PM,A,Endorphin,FALSE,12008,7:10:07 PM
+202,5111819,39214,8,Educational,Which of these words is NOT a portmanteau?,7:09:38 PM,B,Chortle,FALSE,11302,7:10:07 PM
+203,5111819,39214,8,Educational,Which of these words is NOT a portmanteau?,7:09:38 PM,C,Gelato,TRUE,10109,7:10:07 PM
+204,5111819,39216,9,Movies,"In a classic silent film, who famously survives a wall tipping over him thanks to an open window?",7:10:24 PM,A,Charlie Chaplin,FALSE,3937,7:10:50 PM
+205,5111819,39216,9,Movies,"In a classic silent film, who famously survives a wall tipping over him thanks to an open window?",7:10:24 PM,B,Buster Keaton,TRUE,5399,7:10:50 PM
+206,5111819,39216,9,Movies,"In a classic silent film, who famously survives a wall tipping over him thanks to an open window?",7:10:24 PM,C,Harold Lloyd,FALSE,1161,7:10:50 PM
+207,5111819,39219,10,Games,What gave the infamously stinky 1980s action figure Stinkor his trademark nasty smell?,7:11:02 PM,A,Pine tar,FALSE,1170,7:11:36 PM
+208,5111819,39219,10,Games,What gave the infamously stinky 1980s action figure Stinkor his trademark nasty smell?,7:11:02 PM,B,Patchouli oil,TRUE,2225,7:11:36 PM
+209,5111819,39219,10,Games,What gave the infamously stinky 1980s action figure Stinkor his trademark nasty smell?,7:11:02 PM,C,Durian extract,FALSE,1967,7:11:36 PM
+210,5111819,39220,11,Geography,Which of these countries gained its independence most recently?,7:11:49 PM,A,Ghana,FALSE,757,7:12:14 PM
+211,5111819,39220,11,Geography,Which of these countries gained its independence most recently?,7:11:49 PM,B,Guinea,FALSE,824,7:12:14 PM
+212,5111819,39220,11,Geography,Which of these countries gained its independence most recently?,7:11:49 PM,C,Grenada,TRUE,748,7:12:14 PM
+213,5111819,39218,12,Art & Design,An alternative title for the most popular exhibit in the Louvre Museum translates to what?,7:12:50 PM,A,The Enigmatic One,FALSE,357,7:13:27 PM
+214,5111819,39218,12,Art & Design,An alternative title for the most popular exhibit in the Louvre Museum translates to what?,7:12:50 PM,B,The Curious One,FALSE,331,7:13:27 PM
+215,5111819,39218,12,Art & Design,An alternative title for the most popular exhibit in the Louvre Museum translates to what?,7:12:50 PM,C,The Cheerful One,TRUE,198,7:13:27 PM
+216,5121819,29081,1,Educational,Which of these is a common type of amusement park ride?,7:03:40 PM,A,Roller coaster,TRUE,770998,7:04:01 PM
+217,5121819,29081,1,Educational,Which of these is a common type of amusement park ride?,7:03:40 PM,B,Bowler poster,FALSE,2587,7:04:01 PM
+218,5121819,29081,1,Educational,Which of these is a common type of amusement park ride?,7:03:40 PM,C,Solar toaster,FALSE,1621,7:04:01 PM
+219,5121819,29071,2,Food & Drink,What style of dance is also the name of a sauce?,7:04:59 PM,A,Salsa,TRUE,758032,7:05:19 PM
+220,5121819,29071,2,Food & Drink,What style of dance is also the name of a sauce?,7:04:59 PM,B,Milly rock,FALSE,2802,7:05:19 PM
+221,5121819,29071,2,Food & Drink,What style of dance is also the name of a sauce?,7:04:59 PM,C,Bartman,FALSE,806,7:05:19 PM
+222,5121819,29072,3,Educational,Amelia Earhart became world-famous for flying solo across what?,7:05:35 PM,A,Atlantic Ocean,TRUE,736325,7:05:56 PM
+223,5121819,29072,3,Educational,Amelia Earhart became world-famous for flying solo across what?,7:05:35 PM,B,Connecticut,FALSE,5307,7:05:56 PM
+224,5121819,29072,3,Educational,Amelia Earhart became world-famous for flying solo across what?,7:05:35 PM,C,Empire State Building,FALSE,6609,7:05:56 PM
+225,5121819,29073,4,Nature,Which of these fictional kings has giant ears and a trunk?,7:06:14 PM,A,Aslan,FALSE,53176,7:06:34 PM
+226,5121819,29073,4,Nature,Which of these fictional kings has giant ears and a trunk?,7:06:14 PM,B,Aragorn,FALSE,127758,7:06:34 PM
+227,5121819,29073,4,Nature,Which of these fictional kings has giant ears and a trunk?,7:06:14 PM,C,Babar,TRUE,542449,7:06:34 PM
+228,5121819,29077,5,Sports,Legendary athlete Pelé famously made what term synonymous with soccer?,7:06:51 PM,A,The beautiful game,TRUE,248995,7:07:16 PM
+229,5121819,29077,5,Sports,Legendary athlete Pelé famously made what term synonymous with soccer?,7:06:51 PM,B,Game of perfection,FALSE,139592,7:07:16 PM
+230,5121819,29077,5,Sports,Legendary athlete Pelé famously made what term synonymous with soccer?,7:06:51 PM,C,King of games,FALSE,113212,7:07:16 PM
+231,5121819,29080,6,Art & Design,"Traditionally, a tattoo featuring which of these meant that a sailor had crossed the equator?",7:07:33 PM,A,Anchor,FALSE,169135,7:07:52 PM
+232,5121819,29080,6,Art & Design,"Traditionally, a tattoo featuring which of these meant that a sailor had crossed the equator?",7:07:33 PM,B,Bottle,FALSE,29100,7:07:52 PM
+233,5121819,29080,6,Art & Design,"Traditionally, a tattoo featuring which of these meant that a sailor had crossed the equator?",7:07:33 PM,C,Turtle,TRUE,49639,7:07:52 PM
+234,5121819,29076,7,Art & Design,A knit cap is known as what in Montréal?,7:08:21 PM,A,Tuque,TRUE,32997,7:08:41 PM
+235,5121819,29076,7,Art & Design,A knit cap is known as what in Montréal?,7:08:21 PM,B,Aweille,FALSE,7231,7:08:41 PM
+236,5121819,29076,7,Art & Design,A knit cap is known as what in Montréal?,7:08:21 PM,C,Écharpe,FALSE,13128,7:08:41 PM
+237,5121819,29078,8,Literature ,"What writer was labeled as not having ""hope"" by her teachers at seminary school?",7:08:58 PM,A,Jane Austen,FALSE,8436,7:09:19 PM
+238,5121819,29078,8,Literature ,"What writer was labeled as not having ""hope"" by her teachers at seminary school?",7:08:58 PM,B,Mary Shelley,FALSE,8417,7:09:19 PM
+239,5121819,29078,8,Literature ,"What writer was labeled as not having ""hope"" by her teachers at seminary school?",7:08:58 PM,C,Emily Dickinson,TRUE,15839,7:09:19 PM
+240,5121819,29075,9,Science ,"Now famous for another use, minoxidil was originally developed to help what?",7:09:36 PM,A,Ulcers,TRUE,4036,7:09:57 PM
+241,5121819,29075,9,Science ,"Now famous for another use, minoxidil was originally developed to help what?",7:09:36 PM,B,Sore gums,FALSE,3521,7:09:57 PM
+242,5121819,29075,9,Science ,"Now famous for another use, minoxidil was originally developed to help what?",7:09:36 PM,C,Hair loss,FALSE,8409,7:09:57 PM
+243,5121819,29079,10,Music,Which of these bands does NOT have a female founding member?,7:10:16 PM,A,Talking Heads,FALSE,1547,7:10:36 PM
+244,5121819,29079,10,Music,Which of these bands does NOT have a female founding member?,7:10:16 PM,B,Sonic Youth,FALSE,1154,7:10:36 PM
+245,5121819,29079,10,Music,Which of these bands does NOT have a female founding member?,7:10:16 PM,C,Simple Minds,TRUE,1670,7:10:36 PM
+246,5121819,39959,11,History,Which papal name has reached the highest Roman numeral?,7:10:55 PM,A,Gregory,FALSE,551,7:11:18 PM
+247,5121819,39959,11,History,Which papal name has reached the highest Roman numeral?,7:10:55 PM,B,John,TRUE,881,7:11:18 PM
+248,5121819,39959,11,History,Which papal name has reached the highest Roman numeral?,7:10:55 PM,C,Clement,FALSE,320,7:11:18 PM
+249,5121819,29082,12,Music,"The composer of the ""Pink Panther"" theme also scored which classic Disney film?",7:11:44 PM,A,The Rescuers Down Under,FALSE,189,7:12:13 PM
+250,5121819,29082,12,Music,"The composer of the ""Pink Panther"" theme also scored which classic Disney film?",7:11:44 PM,B,Fox and the Hound,FALSE,443,7:12:13 PM
+251,5121819,29082,12,Music,"The composer of the ""Pink Panther"" theme also scored which classic Disney film?",7:11:44 PM,C,Great Mouse Detective,TRUE,268,7:12:13 PM
+252,5131819,37579,1,Educational,What does a red hand on an electric crosswalk sign typically mean?,7:06:18 PM,A,High five,FALSE,9342,7:06:40 PM
+253,5131819,37579,1,Educational,What does a red hand on an electric crosswalk sign typically mean?,7:06:18 PM,B,Stop,TRUE,1431396,7:06:40 PM
+254,5131819,37579,1,Educational,What does a red hand on an electric crosswalk sign typically mean?,7:06:18 PM,C,Talk to the hand,FALSE,5252,7:06:40 PM
+255,5131819,37580,2,Educational,The period of time new mothers can take off work is known as what?,7:06:55 PM,A,Fraternity leave,FALSE,27624,7:07:16 PM
+256,5131819,37580,2,Educational,The period of time new mothers can take off work is known as what?,7:06:55 PM,B,Maternity leave,TRUE,1389091,7:07:16 PM
+257,5131819,37580,2,Educational,The period of time new mothers can take off work is known as what?,7:06:55 PM,C,Eternity leave,FALSE,5436,7:07:16 PM
+258,5131819,39967,3,Tech,Which of these is a port found on most modern computers?,7:08:15 PM,A,TMI,FALSE,3002,7:08:36 PM
+259,5131819,39967,3,Tech,Which of these is a port found on most modern computers?,7:08:15 PM,B,USB,TRUE,1374519,7:08:36 PM
+260,5131819,39967,3,Tech,Which of these is a port found on most modern computers?,7:08:15 PM,C,SMH,FALSE,1847,7:08:36 PM
+261,5131819,37578,4,Literature ,"In both literature and film, Holly Golightly was famous for having breakfast where?",7:08:51 PM,A,Under the sea,FALSE,75289,7:09:14 PM
+262,5131819,37578,4,Literature ,"In both literature and film, Holly Golightly was famous for having breakfast where?",7:08:51 PM,B,At Tiffany's,TRUE,1244195,7:09:14 PM
+263,5131819,37578,4,Literature ,"In both literature and film, Holly Golightly was famous for having breakfast where?",7:08:51 PM,C,In Flavortown,FALSE,37289,7:09:14 PM
+264,5131819,40056,5,Nature,Grapefruits were named after grapes because they both do what?,7:09:33 PM,A,Grow on vines,FALSE,426577,7:09:56 PM
+265,5131819,40056,5,Nature,Grapefruits were named after grapes because they both do what?,7:09:33 PM,B,Grow in clusters,TRUE,381432,7:09:56 PM
+266,5131819,40056,5,Nature,Grapefruits were named after grapes because they both do what?,7:09:33 PM,C,Grow in same climate,FALSE,391336,7:09:56 PM
+267,5131819,37584,6,Science ,"As viewed from Earth, what is the second-brightest naturally occurring object in the night sky?",7:10:31 PM,A,Venus,TRUE,200313,7:10:53 PM
+268,5131819,37584,6,Science ,"As viewed from Earth, what is the second-brightest naturally occurring object in the night sky?",7:10:31 PM,B,Polaris,FALSE,70782,7:10:53 PM
+269,5131819,37584,6,Science ,"As viewed from Earth, what is the second-brightest naturally occurring object in the night sky?",7:10:31 PM,C,The Moon,FALSE,118976,7:10:53 PM
+270,5131819,37582,7,Music,Which of these Beatles albums has a title track?,7:11:09 PM,A,Magical Mystery Tour,TRUE,63707,7:11:38 PM
+271,5131819,37582,7,Music,Which of these Beatles albums has a title track?,7:11:09 PM,B,Abbey Road,FALSE,108503,7:11:38 PM
+272,5131819,37582,7,Music,Which of these Beatles albums has a title track?,7:11:09 PM,C,Revolver,FALSE,32272,7:11:38 PM
+273,5131819,39953,8,Geography,What title does Canada's head of state hold?,7:12:04 PM,A,Queen,TRUE,5090,7:12:27 PM
+274,5131819,39953,8,Geography,What title does Canada's head of state hold?,7:12:04 PM,B,President,FALSE,2289,7:12:27 PM
+275,5131819,39953,8,Geography,What title does Canada's head of state hold?,7:12:04 PM,C,Prime Minister,FALSE,61911,7:12:27 PM
+276,5131819,37587,9,Food & Drink,Which of these recipes typically includes crustaceans?,7:13:00 PM,A,Veal Oscar,TRUE,2693,7:13:30 PM
+277,5131819,37587,9,Food & Drink,Which of these recipes typically includes crustaceans?,7:13:00 PM,B,Haggis,FALSE,782,7:13:30 PM
+278,5131819,37587,9,Food & Drink,Which of these recipes typically includes crustaceans?,7:13:00 PM,C,Clams casino,FALSE,4024,7:13:30 PM
+279,5131819,37583,10,Educational,Which of these terms is a retronym?,7:13:54 PM,A,Arcade game,FALSE,751,7:14:27 PM
+280,5131819,37583,10,Educational,Which of these terms is a retronym?,7:13:54 PM,B,Bar soap,TRUE,712,7:14:27 PM
+281,5131819,37583,10,Educational,Which of these terms is a retronym?,7:13:54 PM,C,Duck tape,FALSE,1533,7:14:27 PM
+282,5131819,37585,11,Movies,Which of these 1980s Tom Cruise movies is based on a novel?,7:14:59 PM,A,Top Gun,FALSE,179,7:15:28 PM
+283,5131819,37585,11,Movies,Which of these 1980s Tom Cruise movies is based on a novel?,7:14:59 PM,B,Rain Man,FALSE,414,7:15:28 PM
+284,5131819,37585,11,Movies,Which of these 1980s Tom Cruise movies is based on a novel?,7:14:59 PM,C,Cocktail,TRUE,285,7:15:28 PM
+285,5131819,37581,12,Geography,Which of these countries does NOT use a currency with the same name as the other two?,7:15:49 PM,A,Uruguay,FALSE,88,7:16:15 PM
+286,5131819,37581,12,Geography,Which of these countries does NOT use a currency with the same name as the other two?,7:15:49 PM,B,Paraguay,TRUE,178,7:16:15 PM
+287,5131819,37581,12,Geography,Which of these countries does NOT use a currency with the same name as the other two?,7:15:49 PM,C,Cuba,FALSE,61,7:16:15 PM
+288,5131819,37586,13,Art & Design,"Why did Anna Wintour's first cover of ""Vogue"" cause a stir?",7:16:37 PM,A,Model in jeans,TRUE,92,7:17:04 PM
+289,5131819,37586,13,Art & Design,"Why did Anna Wintour's first cover of ""Vogue"" cause a stir?",7:16:37 PM,B,Actor on the cover,FALSE,32,7:17:04 PM
+290,5131819,37586,13,Art & Design,"Why did Anna Wintour's first cover of ""Vogue"" cause a stir?",7:16:37 PM,C,No text,FALSE,56,7:17:04 PM
+291,5131819,37589,14,Educational,The majority of which state's land was initially acquired through the Louisiana Purchase?,7:17:32 PM,A,Montana,TRUE,57,7:18:08 PM
+292,5131819,37589,14,Educational,The majority of which state's land was initially acquired through the Louisiana Purchase?,7:17:32 PM,B,Texas,FALSE,17,7:18:08 PM
+293,5131819,37589,14,Educational,The majority of which state's land was initially acquired through the Louisiana Purchase?,7:17:32 PM,C,Illinois,FALSE,20,7:18:08 PM
+294,5131819,37588,15,Literature ,"In addition to her well-known dragon, famous literary character Lisbeth Salander has which other tattoo?",7:18:52 PM,A,Scorpion,FALSE,7,7:19:32 PM
+295,5131819,37588,15,Literature ,"In addition to her well-known dragon, famous literary character Lisbeth Salander has which other tattoo?",7:18:52 PM,B,Flame,FALSE,7,7:19:32 PM
+296,5131819,37588,15,Literature ,"In addition to her well-known dragon, famous literary character Lisbeth Salander has which other tattoo?",7:18:52 PM,C,Wasp,TRUE,45,7:19:32 PM
+297,5141813,38538,1,Art & Design,Which is a common building material for chairs?,1:03:31 PM,A,Football kickers,FALSE,11638,1:03:53 PM
+298,5141813,38538,1,Art & Design,Which is a common building material for chairs?,1:03:31 PM,B,Fruit stickers,FALSE,6219,1:03:53 PM
+299,5141813,38538,1,Art & Design,Which is a common building material for chairs?,1:03:31 PM,C,Wicker,TRUE,574367,1:03:53 PM
+300,5141813,38539,2,Educational,How do you calculate the sum of two numbers?,1:04:39 PM,A,Officiate their wedding,FALSE,1211,1:04:58 PM
+301,5141813,38539,2,Educational,How do you calculate the sum of two numbers?,1:04:39 PM,B,Add them together,TRUE,563095,1:04:58 PM
+302,5141813,38539,2,Educational,How do you calculate the sum of two numbers?,1:04:39 PM,C,Heat them up,FALSE,1128,1:04:58 PM
+303,5141813,38540,3,Food & Drink,Which of these foods is typically sold in aluminum cans?,1:05:15 PM,A,Dried pasta,FALSE,10887,1:05:38 PM
+304,5141813,38540,3,Food & Drink,Which of these foods is typically sold in aluminum cans?,1:05:15 PM,B,Creamed corn,TRUE,535339,1:05:38 PM
+305,5141813,38540,3,Food & Drink,Which of these foods is typically sold in aluminum cans?,1:05:15 PM,C,Tortilla chips,FALSE,7542,1:05:38 PM
+306,5141813,38543,4,Educational,"What century refers to the same time period as the phrase ""the 1800s""?",1:05:51 PM,A,17th century,FALSE,127847,1:06:11 PM
+307,5141813,38543,4,Educational,"What century refers to the same time period as the phrase ""the 1800s""?",1:05:51 PM,B,18th century,FALSE,94346,1:06:11 PM
+308,5141813,38543,4,Educational,"What century refers to the same time period as the phrase ""the 1800s""?",1:05:51 PM,C,19th century,TRUE,298482,1:06:11 PM
+309,5141813,38541,5,Entertainment,"Speaking up for music education, who is the only non-human to testify before Congress?",1:06:34 PM,A,Elmo,TRUE,240178,1:06:56 PM
+310,5141813,38541,5,Entertainment,"Speaking up for music education, who is the only non-human to testify before Congress?",1:06:34 PM,B,Air Bud,FALSE,32144,1:06:56 PM
+311,5141813,38541,5,Entertainment,"Speaking up for music education, who is the only non-human to testify before Congress?",1:06:34 PM,C,Chewbacca,FALSE,20404,1:06:56 PM
+312,5141813,38546,6,Educational,Which of these words refers to traditional Inuit footwear?,1:07:12 PM,A,Mukluk,TRUE,164122,1:07:36 PM
+313,5141813,38546,6,Educational,Which of these words refers to traditional Inuit footwear?,1:07:12 PM,B,Anorak,FALSE,32971,1:07:36 PM
+314,5141813,38546,6,Educational,Which of these words refers to traditional Inuit footwear?,1:07:12 PM,C,Wampum,FALSE,41274,1:07:36 PM
+315,5141813,38544,7,Food & Drink,"A long-running line of '80s ads urged potential pizza customers to ""avoid"" what?",1:07:52 PM,A,Being annoyed,FALSE,25702,1:08:17 PM
+316,5141813,38544,7,Food & Drink,"A long-running line of '80s ads urged potential pizza customers to ""avoid"" what?",1:07:52 PM,B,Big Floyd,FALSE,17669,1:08:17 PM
+317,5141813,38544,7,Food & Drink,"A long-running line of '80s ads urged potential pizza customers to ""avoid"" what?",1:07:52 PM,C,The Noid,TRUE,116689,1:08:17 PM
+318,5141813,38542,8,Science ,Which is NOT one of the three main types of rock?,1:08:33 PM,A,Sedimentary,FALSE,2990,1:08:53 PM
+319,5141813,38542,8,Science ,Which is NOT one of the three main types of rock?,1:08:33 PM,B,Metamorphic,FALSE,15237,1:08:53 PM
+320,5141813,38542,8,Science ,Which is NOT one of the three main types of rock?,1:08:33 PM,C,Rhyolite,TRUE,98434,1:08:53 PM
+321,5141813,38549,9,Tech,Apple Computer's unsuccessful gaming console went by what name?,1:09:13 PM,A,Pippin,TRUE,23127,1:09:34 PM
+322,5141813,38549,9,Tech,Apple Computer's unsuccessful gaming console went by what name?,1:09:13 PM,B,Fuji,FALSE,35171,1:09:34 PM
+323,5141813,38549,9,Tech,Apple Computer's unsuccessful gaming console went by what name?,1:09:13 PM,C,Adam,FALSE,38928,1:09:34 PM
+324,5141813,38548,10,Movies,"The Disney film that starts with the line, ""All this has happened before, and it will all happen again"" begins in what country?",1:10:01 PM,A,Germany,FALSE,5128,1:10:24 PM
+325,5141813,38548,10,Movies,"The Disney film that starts with the line, ""All this has happened before, and it will all happen again"" begins in what country?",1:10:01 PM,B,France,FALSE,10988,1:10:24 PM
+326,5141813,38548,10,Movies,"The Disney film that starts with the line, ""All this has happened before, and it will all happen again"" begins in what country?",1:10:01 PM,C,England,TRUE,7470,1:10:24 PM
+327,5141813,38545,11,Geography,Walking a straight-line path from the Black Sea to the Caspian Sea could take you through which of these countries?,1:10:43 PM,A,Bulgaria,FALSE,2388,1:11:05 PM
+328,5141813,38545,11,Geography,Walking a straight-line path from the Black Sea to the Caspian Sea could take you through which of these countries?,1:10:43 PM,B,Romania,FALSE,3645,1:11:05 PM
+329,5141813,38545,11,Geography,Walking a straight-line path from the Black Sea to the Caspian Sea could take you through which of these countries?,1:10:43 PM,C,Russia,TRUE,2130,1:11:05 PM
+330,5141813,38547,12,Educational,Which of these authors has NOT won both a Nobel and a Pulitzer Prize?,1:11:41 PM,A,John Steinbeck,FALSE,766,1:12:12 PM
+331,5141813,38547,12,Educational,Which of these authors has NOT won both a Nobel and a Pulitzer Prize?,1:11:41 PM,B,John Updike,TRUE,1085,1:12:12 PM
+332,5141813,38547,12,Educational,Which of these authors has NOT won both a Nobel and a Pulitzer Prize?,1:11:41 PM,C,Toni Morrison,FALSE,518,1:12:12 PM
+333,5141819,39194,1,Nature,In what environment do flowers grow best?,7:03:35 PM,A,Soil,TRUE,915500,7:03:56 PM
+334,5141819,39194,1,Nature,In what environment do flowers grow best?,7:03:35 PM,B,Laundry hampers,FALSE,3491,7:03:56 PM
+335,5141819,39194,1,Nature,In what environment do flowers grow best?,7:03:35 PM,C,Concrete,FALSE,1715,7:03:56 PM
+336,5141819,39195,2,Business,"In marketing, what does BOGO stand for?",7:04:34 PM,A,Big old gas oven,FALSE,2827,7:04:54 PM
+337,5141819,39195,2,Business,"In marketing, what does BOGO stand for?",7:04:34 PM,B,"Buy one, get one",TRUE,900412,7:04:54 PM
+338,5141819,39195,2,Business,"In marketing, what does BOGO stand for?",7:04:34 PM,C,Belt out Gershwin operas,FALSE,1711,7:04:54 PM
+339,5141819,39197,3,Art & Design,"If you put on a hoodie, what type of clothing are you wearing?",7:05:10 PM,A,Cloak,FALSE,15385,7:05:29 PM
+340,5141819,39197,3,Art & Design,"If you put on a hoodie, what type of clothing are you wearing?",7:05:10 PM,B,Cape,FALSE,7075,7:05:29 PM
+341,5141819,39197,3,Art & Design,"If you put on a hoodie, what type of clothing are you wearing?",7:05:10 PM,C,Sweatshirt,TRUE,870464,7:05:29 PM
+342,5141819,39207,4,Music,The Great Barrier Reef can be found off the coast of what country?,7:05:46 PM,A,Australia,TRUE,820763,7:06:08 PM
+343,5141819,39207,4,Music,The Great Barrier Reef can be found off the coast of what country?,7:05:46 PM,B,Argentina,FALSE,35852,7:06:08 PM
+344,5141819,39207,4,Music,The Great Barrier Reef can be found off the coast of what country?,7:05:46 PM,C,Algeria,FALSE,6474,7:06:08 PM
+345,5141819,39198,5,Food & Drink,"Commonly found in Central American cuisine, chorizo is a variety of what?",7:06:23 PM,A,Sausage,TRUE,727654,7:06:42 PM
+346,5141819,39198,5,Food & Drink,"Commonly found in Central American cuisine, chorizo is a variety of what?",7:06:23 PM,B,Pepper,FALSE,44151,7:06:42 PM
+347,5141819,39198,5,Food & Drink,"Commonly found in Central American cuisine, chorizo is a variety of what?",7:06:23 PM,C,Cheese,FALSE,41505,7:06:42 PM
+348,5141819,39196,6,TV,"""The Fonz"" was a hit breakout character on what TV series?",7:06:58 PM,A,Happy Days,TRUE,684421,7:07:20 PM
+349,5141819,39196,6,TV,"""The Fonz"" was a hit breakout character on what TV series?",7:06:58 PM,B,Fonzie's Place,FALSE,33242,7:07:20 PM
+350,5141819,39196,6,TV,"""The Fonz"" was a hit breakout character on what TV series?",7:06:58 PM,C,The Doo-Wop Years,FALSE,7553,7:07:20 PM
+351,5141819,39205,7,Educational,"Which of these is a feature of an unusual surfing contest held annually in Pacifica, California?",7:07:38 PM,A,The boards are on fire,FALSE,184068,7:08:00 PM
+352,5141819,39205,7,Educational,"Which of these is a feature of an unusual surfing contest held annually in Pacifica, California?",7:07:38 PM,B,Water not involved,FALSE,141975,7:08:00 PM
+353,5141819,39205,7,Educational,"Which of these is a feature of an unusual surfing contest held annually in Pacifica, California?",7:07:38 PM,C,Non-human contestants,TRUE,281775,7:08:00 PM
+354,5141819,39200,8,Movies,Which movie series' music was NOT composed by John Williams?,7:08:24 PM,A,Indiana Jones,FALSE,19981,7:08:45 PM
+355,5141819,39200,8,Movies,Which movie series' music was NOT composed by John Williams?,7:08:24 PM,B,Harry Potter,FALSE,176541,7:08:45 PM
+356,5141819,39200,8,Movies,Which movie series' music was NOT composed by John Williams?,7:08:24 PM,C,Back to the Future,TRUE,89868,7:08:45 PM
+357,5141819,39204,9,Educational,"As used in emergency medicine, what is the term ""stat"" short for?",7:09:16 PM,A,Stator,FALSE,14020,7:09:37 PM
+358,5141819,39204,9,Educational,"As used in emergency medicine, what is the term ""stat"" short for?",7:09:16 PM,B,Staten,FALSE,29471,7:09:37 PM
+359,5141819,39204,9,Educational,"As used in emergency medicine, what is the term ""stat"" short for?",7:09:16 PM,C,Statim,TRUE,48085,7:09:37 PM
+360,5141819,39199,10,Business,"What US state was one of the ""Ms"" in the 3M Company's original name?",7:09:49 PM,A,Minnesota,TRUE,27200,7:10:10 PM
+361,5141819,39199,10,Business,"What US state was one of the ""Ms"" in the 3M Company's original name?",7:09:49 PM,B,Missouri,FALSE,9526,7:10:10 PM
+362,5141819,39199,10,Business,"What US state was one of the ""Ms"" in the 3M Company's original name?",7:09:49 PM,C,Maryland,FALSE,11903,7:10:10 PM
+363,5141819,39206,11,Geography,What is the capital of the nation that lies entirely within the Pyrenees mountain range?,7:10:29 PM,A,Andorra La Vella,TRUE,9815,7:10:53 PM
+364,5141819,39206,11,Geography,What is the capital of the nation that lies entirely within the Pyrenees mountain range?,7:10:29 PM,B,San Marino,FALSE,12096,7:10:53 PM
+365,5141819,39206,11,Geography,What is the capital of the nation that lies entirely within the Pyrenees mountain range?,7:10:29 PM,C,Vaduz,FALSE,5350,7:10:53 PM
+366,5141819,39208,12,Entertainment,"What TV show's protagonist shares his name with a main character in the classic novel ""Day of the Locust""?",7:11:22 PM,A,The Simpsons,TRUE,3184,7:11:51 PM
+367,5141819,39208,12,Entertainment,"What TV show's protagonist shares his name with a main character in the classic novel ""Day of the Locust""?",7:11:22 PM,B,The Sopranos,FALSE,2849,7:11:51 PM
+368,5141819,39208,12,Entertainment,"What TV show's protagonist shares his name with a main character in the classic novel ""Day of the Locust""?",7:11:22 PM,C,The Walking Dead,FALSE,4182,7:11:51 PM
+369,5141821,36335,1,Educational,Crying babies are often given what soothing contraption?,9:39:36 PM,A,Fax machine,FALSE,4193,9:39:59 PM
+370,5141821,36335,1,Educational,Crying babies are often given what soothing contraption?,9:39:36 PM,B,Pacifier,TRUE,1375575,9:39:59 PM
+371,5141821,36335,1,Educational,Crying babies are often given what soothing contraption?,9:39:36 PM,C,Vuvuzela,FALSE,7966,9:39:59 PM
+372,5141821,36336,2,Entertainment,"According to the song performed by Brynn Cartelli on ""The Voice"" tonight, what does the world need now?",9:40:13 PM,A,Love,TRUE,1345113,9:40:41 PM
+373,5141821,36336,2,Entertainment,"According to the song performed by Brynn Cartelli on ""The Voice"" tonight, what does the world need now?",9:40:13 PM,B,Kidney stones,FALSE,8053,9:40:41 PM
+374,5141821,36336,2,Entertainment,"According to the song performed by Brynn Cartelli on ""The Voice"" tonight, what does the world need now?",9:40:13 PM,C,Truffle mashed potatoes,FALSE,8623,9:40:41 PM
+375,5141821,36338,3,Science ,The depths of outer space are closest to which of these temperatures?,9:41:14 PM,A,Absolute zero,TRUE,1105751,9:41:36 PM
+376,5141821,36338,3,Science ,The depths of outer space are closest to which of these temperatures?,9:41:14 PM,B,32 degrees F,FALSE,83895,9:41:36 PM
+377,5141821,36338,3,Science ,The depths of outer space are closest to which of these temperatures?,9:41:14 PM,C,212 degrees F,FALSE,121580,9:41:36 PM
+378,5141821,36340,4,Nature,Whiskers mainly help cats with which of these things?,9:41:51 PM,A,Spatial awareness,TRUE,994830,9:42:11 PM
+379,5141821,36340,4,Nature,Whiskers mainly help cats with which of these things?,9:41:51 PM,B,Fighting infection,FALSE,77692,9:42:11 PM
+380,5141821,36340,4,Nature,Whiskers mainly help cats with which of these things?,9:41:51 PM,C,Digestion,FALSE,33038,9:42:11 PM
+381,5141821,36348,5,Music,"Earlier tonight on ""The Voice,"" what Alicia Keys song did I reference?",9:42:26 PM,A,Girl on Fire,TRUE,849515,9:42:51 PM
+382,5141821,36348,5,Music,"Earlier tonight on ""The Voice,"" what Alicia Keys song did I reference?",9:42:26 PM,B,Uptown Girl,FALSE,109857,9:42:51 PM
+383,5141821,36348,5,Music,"Earlier tonight on ""The Voice,"" what Alicia Keys song did I reference?",9:42:26 PM,C,Barbie Girl,FALSE,27260,9:42:51 PM
+384,5141821,36342,6,Literature ,"""Midnight in the Garden of Good and Evil"" tells the true crime story of what city?",9:43:11 PM,A,Savannah,TRUE,360878,9:43:37 PM
+385,5141821,36342,6,Literature ,"""Midnight in the Garden of Good and Evil"" tells the true crime story of what city?",9:43:11 PM,B,Charleston,FALSE,288012,9:43:37 PM
+386,5141821,36342,6,Literature ,"""Midnight in the Garden of Good and Evil"" tells the true crime story of what city?",9:43:11 PM,C,Atlanta,FALSE,195918,9:43:37 PM
+387,5141821,36343,7,Games,What best-selling video game franchise has NOT been set during a real historic conflict?,9:44:08 PM,A,Gears of War,TRUE,245127,9:44:36 PM
+388,5141821,36343,7,Games,What best-selling video game franchise has NOT been set during a real historic conflict?,9:44:08 PM,B,Call of Duty,FALSE,68703,9:44:36 PM
+389,5141821,36343,7,Games,What best-selling video game franchise has NOT been set during a real historic conflict?,9:44:08 PM,C,Battlefield,FALSE,58282,9:44:36 PM
+390,5141821,36349,8,Geography,The vast majority of the Serengeti National Park is located in which country?,9:44:49 PM,A,Kenya,FALSE,123453,9:45:13 PM
+391,5141821,36349,8,Geography,The vast majority of the Serengeti National Park is located in which country?,9:44:49 PM,B,Uganda,FALSE,44947,9:45:13 PM
+392,5141821,36349,8,Geography,The vast majority of the Serengeti National Park is located in which country?,9:44:49 PM,C,Tanzania,TRUE,80106,9:45:13 PM
+393,5141821,36350,9,TV,"During my appearance on  ""The Voice"" tonight, which coach did the camera cut away to?",9:45:31 PM,A,Alicia Keys,FALSE,14700,9:46:14 PM
+394,5141821,36350,9,TV,"During my appearance on  ""The Voice"" tonight, which coach did the camera cut away to?",9:45:31 PM,B,Kelly Clarkson,FALSE,29801,9:46:15 PM
+395,5141821,36350,9,TV,"During my appearance on  ""The Voice"" tonight, which coach did the camera cut away to?",9:45:31 PM,C,Blake Shelton,TRUE,42469,9:46:15 PM
+396,5141821,36351,10,Tech,Which of these websites is NOT currently officially blocked in China?,9:46:42 PM,A,Pinterest,FALSE,23963,9:47:16 PM
+397,5141821,36351,10,Tech,Which of these websites is NOT currently officially blocked in China?,9:46:42 PM,B,Reddit,TRUE,14591,9:47:16 PM
+398,5141821,36351,10,Tech,Which of these websites is NOT currently officially blocked in China?,9:46:42 PM,C,Twitter,FALSE,6113,9:47:16 PM
+399,5141821,36352,11,Science ,Which of these physics terms gets its name from an Indian scientist?,9:47:37 PM,A,Boson,TRUE,9493,9:48:03 PM
+400,5141821,36352,11,Science ,Which of these physics terms gets its name from an Indian scientist?,9:47:37 PM,B,Ferrimagnetism,FALSE,1720,9:48:03 PM
+401,5141821,36352,11,Science ,Which of these physics terms gets its name from an Indian scientist?,9:47:37 PM,C,Lepton,FALSE,5035,9:48:03 PM
+402,5141821,36353,12,Movies,Michael Keaton has played the same character in films directed by Quentin Tarantino and who else?,9:48:40 PM,A,Michael Mann,FALSE,3323,9:49:13 PM
+403,5141821,36353,12,Movies,Michael Keaton has played the same character in films directed by Quentin Tarantino and who else?,9:48:40 PM,B,Coen Brothers,FALSE,2885,9:49:13 PM
+404,5141821,36353,12,Movies,Michael Keaton has played the same character in films directed by Quentin Tarantino and who else?,9:48:40 PM,C,Steven Soderbergh,TRUE,3519,9:49:13 PM
+405,5151813,39388,1,Educational,"According to an old saying, teaching a person to fish will feed them for how long?",1:03:32 PM,A,3 to 5 business days,FALSE,19957,1:03:51 PM
+406,5151813,39388,1,Educational,"According to an old saying, teaching a person to fish will feed them for how long?",1:03:32 PM,B,6 seconds,FALSE,15639,1:03:51 PM
+407,5151813,39388,1,Educational,"According to an old saying, teaching a person to fish will feed them for how long?",1:03:32 PM,C,A lifetime,TRUE,557525,1:03:51 PM
+408,5151813,39389,2,Art & Design,A right-handed person customarily wears a watch where?,1:04:07 PM,A,Right foot,FALSE,11425,1:04:27 PM
+409,5151813,39389,2,Art & Design,A right-handed person customarily wears a watch where?,1:04:07 PM,B,Left wrist,TRUE,536397,1:04:27 PM
+410,5151813,39389,2,Art & Design,A right-handed person customarily wears a watch where?,1:04:07 PM,C,Belt buckle,FALSE,2054,1:04:27 PM
+411,5151813,39393,3,Nature,Which of these animals typically walks on four legs?,1:04:42 PM,A,Mackerel,FALSE,2721,1:05:02 PM
+412,5151813,39393,3,Nature,Which of these animals typically walks on four legs?,1:04:42 PM,B,Moose,TRUE,525978,1:05:02 PM
+413,5151813,39393,3,Nature,Which of these animals typically walks on four legs?,1:04:42 PM,C,Macaw,FALSE,3279,1:05:02 PM
+414,5151813,39391,4,Movies,"What conflict is central to the plot of the classic film ""Gone With The Wind""?",1:05:17 PM,A,Civil War,TRUE,351952,1:05:38 PM
+415,5151813,39391,4,Movies,"What conflict is central to the plot of the classic film ""Gone With The Wind""?",1:05:17 PM,B,Revolutionary War,FALSE,73325,1:05:38 PM
+416,5151813,39391,4,Movies,"What conflict is central to the plot of the classic film ""Gone With The Wind""?",1:05:17 PM,C,World War II,FALSE,87496,1:05:38 PM
+417,5151813,39392,5,Educational,"Which of these words is NOT a synonym for ""monkey business""?",1:05:54 PM,A,Shenanigans,FALSE,59824,1:06:14 PM
+418,5151813,39392,5,Educational,"Which of these words is NOT a synonym for ""monkey business""?",1:05:54 PM,B,Skullduggery,FALSE,27069,1:06:14 PM
+419,5151813,39392,5,Educational,"Which of these words is NOT a synonym for ""monkey business""?",1:05:54 PM,C,Smithereens,TRUE,262177,1:06:14 PM
+420,5151813,39390,6,Sports,Which of these cities has an NBA team named for what its franchise founder manufactured?,1:06:34 PM,A,Oklahoma City,FALSE,35790,1:06:58 PM
+421,5151813,39390,6,Sports,Which of these cities has an NBA team named for what its franchise founder manufactured?,1:06:34 PM,B,Detroit,TRUE,174060,1:06:58 PM
+422,5151813,39390,6,Sports,Which of these cities has an NBA team named for what its franchise founder manufactured?,1:06:34 PM,C,Denver,FALSE,38957,1:06:58 PM
+423,5151813,39398,7,Sports,A common pass in ultimate frisbee gets its name from what mode of transportation?,1:07:12 PM,A,Hovercraft,FALSE,87881,1:07:34 PM
+424,5151813,39398,7,Sports,A common pass in ultimate frisbee gets its name from what mode of transportation?,1:07:12 PM,B,Elevator,TRUE,51888,1:07:34 PM
+425,5151813,39398,7,Sports,A common pass in ultimate frisbee gets its name from what mode of transportation?,1:07:12 PM,C,Surfboard,FALSE,31224,1:07:34 PM
+426,5151813,39395,8,Movies,Which of these is NOT the name of a female character in a James Bond film?,1:08:00 PM,A,Dr. Christmas Jones,FALSE,7602,1:08:21 PM
+427,5151813,39395,8,Movies,Which of these is NOT the name of a female character in a James Bond film?,1:08:00 PM,B,Plenty O'Toole,FALSE,16687,1:08:21 PM
+428,5151813,39395,8,Movies,Which of these is NOT the name of a female character in a James Bond film?,1:08:00 PM,C,Memphis Sleek,TRUE,27932,1:08:21 PM
+429,5151813,39394,9,Educational,What musical term also refers to the collection of sprockets on a multi-speed bicycle?,1:08:37 PM,A,LP,FALSE,11120,1:08:56 PM
+430,5151813,39394,9,Educational,What musical term also refers to the collection of sprockets on a multi-speed bicycle?,1:08:37 PM,B,CD,FALSE,3812,1:08:56 PM
+431,5151813,39394,9,Educational,What musical term also refers to the collection of sprockets on a multi-speed bicycle?,1:08:37 PM,C,Cassette,TRUE,13069,1:08:56 PM
+432,5151813,39396,10,History,A 1996 addition to the constitution of Ireland legalized which of these practices?,1:09:19 PM,A,Divorce,TRUE,8345,1:09:39 PM
+433,5151813,39396,10,History,A 1996 addition to the constitution of Ireland legalized which of these practices?,1:09:19 PM,B,Marijuana use,FALSE,1042,1:09:39 PM
+434,5151813,39396,10,History,A 1996 addition to the constitution of Ireland legalized which of these practices?,1:09:19 PM,C,Atheism,FALSE,3893,1:09:39 PM
+435,5151813,39397,11,Geography,The state of New Mexico has an official question that asks to choose between what?,1:09:58 PM,A,Directions,FALSE,2526,1:10:18 PM
+436,5151813,39397,11,Geography,The state of New Mexico has an official question that asks to choose between what?,1:09:58 PM,B,Animals,FALSE,2579,1:10:18 PM
+437,5151813,39397,11,Geography,The state of New Mexico has an official question that asks to choose between what?,1:09:58 PM,C,Colors,TRUE,3243,1:10:18 PM
+438,5151813,39399,12,Music,Which of these artists shares her given first name with her mother?,1:10:54 PM,A,Sia,FALSE,1806,1:11:21 PM
+439,5151813,39399,12,Music,Which of these artists shares her given first name with her mother?,1:10:54 PM,B,Madonna,TRUE,1302,1:11:21 PM
+440,5151813,39399,12,Music,Which of these artists shares her given first name with her mother?,1:10:54 PM,C,Beyoncé,FALSE,465,1:11:21 PM
+441,5151819,39452,1,Food & Drink,Which of these foods is typically made with potatoes?,7:03:34 PM,A,Tater tots,TRUE,773674,7:03:54 PM
+442,5151819,39452,1,Food & Drink,Which of these foods is typically made with potatoes?,7:03:34 PM,B,Pecan pie,FALSE,7191,7:03:54 PM
+443,5151819,39452,1,Food & Drink,Which of these foods is typically made with potatoes?,7:03:34 PM,C,Cotton candy,FALSE,1354,7:03:54 PM
+444,5151819,39455,2,Tech,"To make wired headphones work, you should plug them into what?",7:04:10 PM,A,Jack,TRUE,758411,7:04:28 PM
+445,5151819,39455,2,Tech,"To make wired headphones work, you should plug them into what?",7:04:10 PM,B,Yak,FALSE,3248,7:04:28 PM
+446,5151819,39455,2,Tech,"To make wired headphones work, you should plug them into what?",7:04:10 PM,C,Shack,FALSE,5023,7:04:28 PM
+447,5151819,39454,3,Art & Design,Which of these accessories is typically worn lowest on the body?,7:04:44 PM,A,Brooch,FALSE,3512,7:05:05 PM
+448,5151819,39454,3,Art & Design,Which of these accessories is typically worn lowest on the body?,7:04:44 PM,B,Bracelet,FALSE,5353,7:05:05 PM
+449,5151819,39454,3,Art & Design,Which of these accessories is typically worn lowest on the body?,7:04:44 PM,C,Anklet,TRUE,743788,7:05:05 PM
+450,5151819,39453,4,Educational,A short period of time can be referred to with which phrase?,7:05:18 PM,A,Chicago blink,FALSE,24045,7:05:38 PM
+451,5151819,39453,4,Educational,A short period of time can be referred to with which phrase?,7:05:18 PM,B,Dallas instant,FALSE,10138,7:05:38 PM
+452,5151819,39453,4,Educational,A short period of time can be referred to with which phrase?,7:05:18 PM,C,New York minute,TRUE,703383,7:05:38 PM
+453,5151819,39451,5,Nature,Which of these animals does NOT spend much of its life in underground burrows?,7:05:52 PM,A,Sole,TRUE,434543,7:06:12 PM
+454,5151819,39451,5,Nature,Which of these animals does NOT spend much of its life in underground burrows?,7:05:52 PM,B,Vole,FALSE,156372,7:06:12 PM
+455,5151819,39451,5,Nature,Which of these animals does NOT spend much of its life in underground burrows?,7:05:52 PM,C,Mole,FALSE,95598,7:06:12 PM
+456,5151819,39457,6,Sports,"What practice often includes a pose called ""The Hundred""?",7:06:36 PM,A,Pilates,TRUE,167511,7:06:54 PM
+457,5151819,39457,6,Sports,"What practice often includes a pose called ""The Hundred""?",7:06:36 PM,B,Yoga,FALSE,91371,7:06:54 PM
+458,5151819,39457,6,Sports,"What practice often includes a pose called ""The Hundred""?",7:06:36 PM,C,Tai chi,FALSE,172441,7:06:54 PM
+459,5151819,39456,7,Geography,Which of these is NOT the name of one of Mexico's 31 states?,7:07:21 PM,A,Chihuahua,FALSE,16684,7:07:41 PM
+460,5151819,39456,7,Geography,Which of these is NOT the name of one of Mexico's 31 states?,7:07:21 PM,B,Tabasco,FALSE,46417,7:07:41 PM
+461,5151819,39456,7,Geography,Which of these is NOT the name of one of Mexico's 31 states?,7:07:21 PM,C,Piñata,TRUE,105299,7:07:41 PM
+462,5151819,39460,8,Literature ,Gordon Lish and Maxwell Perkins are famous for working as what?,7:07:57 PM,A,Startup founders,FALSE,34125,7:08:18 PM
+463,5151819,39460,8,Literature ,Gordon Lish and Maxwell Perkins are famous for working as what?,7:07:57 PM,B,Book editors,TRUE,54315,7:08:18 PM
+464,5151819,39460,8,Literature ,Gordon Lish and Maxwell Perkins are famous for working as what?,7:07:57 PM,C,Football coaches,FALSE,16058,7:08:18 PM
+465,5151819,39459,9,Science ,Which of these early groups of hominids lived on Earth first?,7:08:37 PM,A,Homo erectus,FALSE,20030,7:09:00 PM
+466,5151819,39459,9,Science ,Which of these early groups of hominids lived on Earth first?,7:08:37 PM,B,Homo heidelbergensis,FALSE,4942,7:09:00 PM
+467,5151819,39459,9,Science ,Which of these early groups of hominids lived on Earth first?,7:08:37 PM,C,Homo habilis,TRUE,27256,7:09:00 PM
+468,5151819,39462,10,History,"Starting in the 1850s, most US military horsemen used a saddle named for who?",7:09:16 PM,A,George McClellan,TRUE,8598,7:09:37 PM
+469,5151819,39462,10,History,"Starting in the 1850s, most US military horsemen used a saddle named for who?",7:09:16 PM,B,Ambrose Burnside,FALSE,11676,7:09:37 PM
+470,5151819,39462,10,History,"Starting in the 1850s, most US military horsemen used a saddle named for who?",7:09:16 PM,C,Stonewall Jackson,FALSE,6652,7:09:37 PM
+471,5151819,39458,11,,"What city is the capital of a country whose name means ""black mountain""?",7:09:54 PM,A,Podgorica,TRUE,3072,7:10:16 PM
+472,5151819,39458,11,,"What city is the capital of a country whose name means ""black mountain""?",7:09:54 PM,B,Chișinău,FALSE,2010,7:10:16 PM
+473,5151819,39458,11,,"What city is the capital of a country whose name means ""black mountain""?",7:09:54 PM,C,Skopje,FALSE,3957,7:10:16 PM
+474,5151819,39461,12,Music,"The sci-fi film ""Barbarella"" inspired the name of the band behind which of these '80s hits?",7:10:41 PM,A,How Soon Is Now?,FALSE,246,7:11:11 PM
+475,5151819,39461,12,Music,"The sci-fi film ""Barbarella"" inspired the name of the band behind which of these '80s hits?",7:10:41 PM,B,The Killing Moon,FALSE,595,7:11:11 PM
+476,5151819,39461,12,Music,"The sci-fi film ""Barbarella"" inspired the name of the band behind which of these '80s hits?",7:10:41 PM,C,Hungry Like the Wolf,TRUE,2442,7:11:11 PM
+477,5161813,38525,1,Educational,"In a classic children's joke, why is 6 afraid of 7?",1:05:32 PM,A,6 owes 7 money,FALSE,23894,1:05:51 PM
+478,5161813,38525,1,Educational,"In a classic children's joke, why is 6 afraid of 7?",1:05:32 PM,B,6 misunderstood 7's text,FALSE,10053,1:05:51 PM
+479,5161813,38525,1,Educational,"In a classic children's joke, why is 6 afraid of 7?",1:05:32 PM,C,Because 7 ate 9,TRUE,611823,1:05:51 PM
+480,5161813,38520,2,Educational,"The initialism FYI usually stands for ""For your"" what?",1:06:04 PM,A,Improv group,FALSE,2468,1:06:25 PM
+481,5161813,38520,2,Educational,"The initialism FYI usually stands for ""For your"" what?",1:06:04 PM,B,Igloo,FALSE,1370,1:06:25 PM
+482,5161813,38520,2,Educational,"The initialism FYI usually stands for ""For your"" what?",1:06:04 PM,C,Information,TRUE,600069,1:06:25 PM
+483,5161813,38521,3,Educational,What legendary underdog defeated Goliath in an ancient Biblical fight?,1:06:38 PM,A,Ambrose,FALSE,11447,1:07:02 PM
+484,5161813,38521,3,Educational,What legendary underdog defeated Goliath in an ancient Biblical fight?,1:06:38 PM,B,Chet,FALSE,6388,1:07:02 PM
+485,5161813,38521,3,Educational,What legendary underdog defeated Goliath in an ancient Biblical fight?,1:06:38 PM,C,David,TRUE,576866,1:07:02 PM
+486,5161813,38522,4,Entertainment,"Now a popular tourist destination, Elvis Presley's Memphis home goes by what name?",1:07:16 PM,A,Palace of Song,FALSE,27952,1:07:35 PM
+487,5161813,38522,4,Entertainment,"Now a popular tourist destination, Elvis Presley's Memphis home goes by what name?",1:07:16 PM,B,Graceland,TRUE,511218,1:07:35 PM
+488,5161813,38522,4,Entertainment,"Now a popular tourist destination, Elvis Presley's Memphis home goes by what name?",1:07:16 PM,C,Rock n Roll HQ,FALSE,29855,1:07:35 PM
+489,5161813,38523,5,Educational,What is Canada's one-dollar coin commonly called?,1:07:49 PM,A,Bucky,FALSE,93136,1:08:14 PM
+490,5161813,38523,5,Educational,What is Canada's one-dollar coin commonly called?,1:07:49 PM,B,Dollop,FALSE,70702,1:08:14 PM
+491,5161813,38523,5,Educational,What is Canada's one-dollar coin commonly called?,1:07:49 PM,C,Loonie,TRUE,342485,1:08:14 PM
+492,5161813,38524,6,Educational,Where is the official papal signet traditionally worn?,1:08:29 PM,A,On a finger,TRUE,129102,1:08:48 PM
+493,5161813,38524,6,Educational,Where is the official papal signet traditionally worn?,1:08:29 PM,B,Top of head,FALSE,102669,1:08:48 PM
+494,5161813,38524,6,Educational,Where is the official papal signet traditionally worn?,1:08:29 PM,C,Around the neck,FALSE,106372,1:08:48 PM
+495,5161813,38526,7,Geography,What is the only country Denmark shares a land border with?,1:09:04 PM,A,Germany,TRUE,49090,1:09:27 PM
+496,5161813,38526,7,Geography,What is the only country Denmark shares a land border with?,1:09:04 PM,B,France,FALSE,10984,1:09:27 PM
+497,5161813,38526,7,Geography,What is the only country Denmark shares a land border with?,1:09:04 PM,C,The Netherlands,FALSE,69849,1:09:27 PM
+498,5161813,38529,8,History,"Among these US presidents, who is famous for winning a prestigious literary prize?",1:09:42 PM,A,William Howard Taft,FALSE,13885,1:10:06 PM
+499,5161813,38529,8,History,"Among these US presidents, who is famous for winning a prestigious literary prize?",1:09:42 PM,B,Franklin D. Roosevelt,FALSE,17742,1:10:06 PM
+500,5161813,38529,8,History,"Among these US presidents, who is famous for winning a prestigious literary prize?",1:09:42 PM,C,John F. Kennedy,TRUE,17236,1:10:06 PM
+501,5161813,38527,9,Movies,Shakespeare's wife shares her name with the star of which of these movies?,1:10:22 PM,A,The Notebook,FALSE,7399,1:10:45 PM
+502,5161813,38527,9,Movies,Shakespeare's wife shares her name with the star of which of these movies?,1:10:22 PM,B,The Intern,TRUE,6457,1:10:45 PM
+503,5161813,38527,9,Movies,Shakespeare's wife shares her name with the star of which of these movies?,1:10:22 PM,C,Shakespeare in Love,FALSE,3682,1:10:45 PM
+504,5161813,38528,10,Sports,Which of these schools does NOT have a cat as its mascot?,1:11:00 PM,A,Brigham Young University,FALSE,2489,1:11:30 PM
+505,5161813,38528,10,Sports,Which of these schools does NOT have a cat as its mascot?,1:11:00 PM,B,University of Missouri,FALSE,1025,1:11:30 PM
+506,5161813,38528,10,Sports,Which of these schools does NOT have a cat as its mascot?,1:11:00 PM,C,Arizona State University,TRUE,3071,1:11:30 PM
+507,5161813,38530,11,TV,What is the term for when a television character notes their own show's improbable plot line?,1:11:46 PM,A,Lampshading,TRUE,1854,1:12:15 PM
+508,5161813,38530,11,TV,What is the term for when a television character notes their own show's improbable plot line?,1:11:46 PM,B,Fridge logic,FALSE,374,1:12:15 PM
+509,5161813,38530,11,TV,What is the term for when a television character notes their own show's improbable plot line?,1:11:46 PM,C,Continuity nod,FALSE,871,1:12:15 PM
+510,5161813,38531,12,History,Which of these world-historical figures was born first?,1:12:48 PM,A,Archimedes,FALSE,887,1:13:18 PM
+511,5161813,38531,12,History,Which of these world-historical figures was born first?,1:12:48 PM,B,Cleopatra,FALSE,417,1:13:18 PM
+512,5161813,38531,12,History,Which of these world-historical figures was born first?,1:12:48 PM,C,Alexander of Macedonia,TRUE,572,1:13:18 PM
+513,5161819,39358,1,Educational,"Which of these terms describes buying a house, improving it, and selling it for profit?",7:03:39 PM,A,Smushing,FALSE,11911,7:03:59 PM
+514,5161819,39358,1,Educational,"Which of these terms describes buying a house, improving it, and selling it for profit?",7:03:39 PM,B,Flipping,TRUE,806901,7:03:59 PM
+515,5161819,39358,1,Educational,"Which of these terms describes buying a house, improving it, and selling it for profit?",7:03:39 PM,C,Teleporting,FALSE,4495,7:03:59 PM
+516,5161819,39357,2,Literature ,"Laura Ingalls Wilder wrote a series of kids' books called ""Little House on the"" what?",7:04:13 PM,A,Garbage Island,FALSE,5817,7:04:34 PM
+517,5161819,39357,2,Literature ,"Laura Ingalls Wilder wrote a series of kids' books called ""Little House on the"" what?",7:04:13 PM,B,Prairie,TRUE,791402,7:04:34 PM
+518,5161819,39357,2,Literature ,"Laura Ingalls Wilder wrote a series of kids' books called ""Little House on the"" what?",7:04:13 PM,C,Volcano,FALSE,4274,7:04:34 PM
+519,5161819,39359,3,Educational,The paste used to fill gaps between floor tiles is called what?,7:04:50 PM,A,Gravel,FALSE,40872,7:05:12 PM
+520,5161819,39359,3,Educational,The paste used to fill gaps between floor tiles is called what?,7:04:50 PM,B,Grout,TRUE,740525,7:05:12 PM
+521,5161819,39359,3,Educational,The paste used to fill gaps between floor tiles is called what?,7:04:50 PM,C,Grundy,FALSE,4819,7:05:12 PM
+522,5161819,39363,4,Food & Drink,Which of these foods would pescatarians most likely eat?,7:05:28 PM,A,Sushi,TRUE,630485,7:05:48 PM
+523,5161819,39363,4,Food & Drink,Which of these foods would pescatarians most likely eat?,7:05:28 PM,B,BLT sandwich,FALSE,37112,7:05:48 PM
+524,5161819,39363,4,Food & Drink,Which of these foods would pescatarians most likely eat?,7:05:28 PM,C,Spaghetti bolognese,FALSE,60090,7:05:48 PM
+525,5161819,39360,5,Educational,Which of these is the correct spelling for a common type of fragrance?,7:06:04 PM,A,Cologne,TRUE,600392,7:06:23 PM
+526,5161819,39360,5,Educational,Which of these is the correct spelling for a common type of fragrance?,7:06:04 PM,B,Colone,FALSE,4896,7:06:23 PM
+527,5161819,39360,5,Educational,Which of these is the correct spelling for a common type of fragrance?,7:06:04 PM,C,Colonge,FALSE,23395,7:06:23 PM
+528,5161819,39364,6,Entertainment,"In what country is the title character of the ""Where's Waldo?"" franchise known as Charlie?",7:06:39 PM,A,Germany,FALSE,148169,7:07:04 PM
+529,5161819,39364,6,Entertainment,"In what country is the title character of the ""Where's Waldo?"" franchise known as Charlie?",7:06:39 PM,B,France,TRUE,334144,7:07:04 PM
+530,5161819,39364,6,Entertainment,"In what country is the title character of the ""Where's Waldo?"" franchise known as Charlie?",7:06:39 PM,C,Ireland,FALSE,101490,7:07:04 PM
+531,5161819,39361,7,Entertainment,Which of these musicals famously features a man-eating plant?,7:07:22 PM,A,Sweeney Todd,FALSE,36094,7:07:45 PM
+532,5161819,39361,7,Entertainment,Which of these musicals famously features a man-eating plant?,7:07:22 PM,B,Little Shop of Horrors,TRUE,284449,7:07:45 PM
+533,5161819,39361,7,Entertainment,Which of these musicals famously features a man-eating plant?,7:07:22 PM,C,Spamalot,FALSE,25179,7:07:45 PM
+534,5161819,39362,8,Science ,A well-known number series is named for which of the following mathematicians?,7:08:02 PM,A,Euler,FALSE,49341,7:08:22 PM
+535,5161819,39362,8,Science ,A well-known number series is named for which of the following mathematicians?,7:08:02 PM,B,Gauss,FALSE,57362,7:08:22 PM
+536,5161819,39362,8,Science ,A well-known number series is named for which of the following mathematicians?,7:08:02 PM,C,Fibonacci,TRUE,177999,7:08:22 PM
+537,5161819,39373,9,Art & Design,"What architect's son followed in his footsteps on a smaller level, creating a popular building toy?",7:08:37 PM,A,IM Pei,FALSE,31269,7:08:59 PM
+538,5161819,39373,9,Art & Design,"What architect's son followed in his footsteps on a smaller level, creating a popular building toy?",7:08:37 PM,B,Frank Gehry,FALSE,54516,7:08:59 PM
+539,5161819,39373,9,Art & Design,"What architect's son followed in his footsteps on a smaller level, creating a popular building toy?",7:08:37 PM,C,Frank Lloyd Wright,TRUE,86946,7:08:59 PM
+540,5161819,39374,10,Geography,Which of these states is expected to report a significant population increase in the 2020 Census?,7:09:16 PM,A,Oregon,TRUE,59509,7:09:35 PM
+541,5161819,39374,10,Geography,Which of these states is expected to report a significant population increase in the 2020 Census?,7:09:16 PM,B,New York,FALSE,18349,7:09:35 PM
+542,5161819,39374,10,Geography,Which of these states is expected to report a significant population increase in the 2020 Census?,7:09:16 PM,C,Alabama,FALSE,13694,7:09:35 PM
+543,5161819,39372,11,Entertainment,Which has NOT been the central gimmick of an OK Go video?,7:09:57 PM,A,Close-up magic tricks,TRUE,29584,7:10:17 PM
+544,5161819,39372,11,Entertainment,Which has NOT been the central gimmick of an OK Go video?,7:09:57 PM,B,Super slow-motion,FALSE,12700,7:10:17 PM
+545,5161819,39372,11,Entertainment,Which has NOT been the central gimmick of an OK Go video?,7:09:57 PM,C,Zero gravity,FALSE,18789,7:10:17 PM
+546,5161819,39375,12,Art & Design,Which of these people is part of the family that once owned America's largest private house?,7:10:50 PM,A,Nelson Rockefeller,FALSE,11250,7:11:18 PM
+547,5161819,39375,12,Art & Design,Which of these people is part of the family that once owned America's largest private house?,7:10:50 PM,B,George Vanderbilt II,TRUE,19317,7:11:18 PM
+548,5161819,39375,12,Art & Design,Which of these people is part of the family that once owned America's largest private house?,7:10:50 PM,C,Bill Gates,FALSE,886,7:11:18 PM
+549,5171813,39412,1,Educational,Children are most likely to be dropped off in the morning at which of these places?,1:03:51 PM,A,New York Stock Exchange,FALSE,5724,1:04:11 PM
+550,5171813,39412,1,Educational,Children are most likely to be dropped off in the morning at which of these places?,1:03:51 PM,B,Daycare,TRUE,594144,1:04:11 PM
+551,5171813,39412,1,Educational,Children are most likely to be dropped off in the morning at which of these places?,1:03:51 PM,C,Yacht parties,FALSE,2505,1:04:11 PM
+552,5171813,39413,2,History,"According to old English folklore, Little John was whose sidekick?",1:04:21 PM,A,Robin Hood,TRUE,502836,1:04:44 PM
+553,5171813,39413,2,History,"According to old English folklore, Little John was whose sidekick?",1:04:21 PM,B,Al Capone,FALSE,40291,1:04:44 PM
+554,5171813,39413,2,History,"According to old English folklore, Little John was whose sidekick?",1:04:21 PM,C,East Side Boyz,FALSE,37584,1:04:44 PM
+555,5171813,39415,3,Geography,Which of these states is part of the New England region?,1:04:57 PM,A,Maryland,FALSE,159201,1:05:19 PM
+556,5171813,39415,3,Geography,Which of these states is part of the New England region?,1:04:57 PM,B,Connecticut,TRUE,330381,1:05:19 PM
+557,5171813,39415,3,Geography,Which of these states is part of the New England region?,1:04:57 PM,C,New Mexico,FALSE,6597,1:05:19 PM
+558,5171813,39416,4,Art & Design,How do you measure square footage?,1:05:35 PM,A,Divide height by width,FALSE,15935,1:06:02 PM
+559,5171813,39416,4,Art & Design,How do you measure square footage?,1:05:35 PM,B,Add depth to width,FALSE,5438,1:06:02 PM
+560,5171813,39416,4,Art & Design,How do you measure square footage?,1:05:35 PM,C,Multiply length by width,TRUE,306024,1:06:02 PM
+561,5171813,39414,5,Music,"In the lyrics of the 2000s Chamillionaire hit, what did people keep trying to catch him doing?",1:06:15 PM,A,Ridin' dirty,TRUE,260624,1:06:44 PM
+562,5171813,39414,5,Music,"In the lyrics of the 2000s Chamillionaire hit, what did people keep trying to catch him doing?",1:06:15 PM,B,Turnin' thirty,FALSE,7232,1:06:44 PM
+563,5171813,39414,5,Music,"In the lyrics of the 2000s Chamillionaire hit, what did people keep trying to catch him doing?",1:06:15 PM,C,Gettin' flirty,FALSE,28059,1:06:44 PM
+564,5171813,39417,6,Science ,"Cuticle, cortex and medulla are all components of what human body part?",1:06:59 PM,A,Eyeballs,FALSE,42772,1:07:18 PM
+565,5171813,39417,6,Science ,"Cuticle, cortex and medulla are all components of what human body part?",1:06:59 PM,B,Nails,FALSE,184439,1:07:18 PM
+566,5171813,39417,6,Science ,"Cuticle, cortex and medulla are all components of what human body part?",1:06:59 PM,C,Hair,TRUE,29968,1:07:18 PM
+567,5171813,39420,7,Entertainment,Which Broadway musical was reportedly the first to feature a wheelchair-bound actor?,1:07:41 PM,A,Rent,FALSE,18761,1:08:05 PM
+568,5171813,39420,7,Entertainment,Which Broadway musical was reportedly the first to feature a wheelchair-bound actor?,1:07:41 PM,B,Hamilton,FALSE,4453,1:08:05 PM
+569,5171813,39420,7,Entertainment,Which Broadway musical was reportedly the first to feature a wheelchair-bound actor?,1:07:41 PM,C,Spring Awakening,TRUE,9838,1:08:05 PM
+570,5171813,39419,8,Art & Design,"In Ancient Greece, a Corinthian order referred to what?",1:08:18 PM,A,Army formation,FALSE,1999,1:08:41 PM
+571,5171813,39419,8,Art & Design,"In Ancient Greece, a Corinthian order referred to what?",1:08:18 PM,B,Architecture type,TRUE,6133,1:08:41 PM
+572,5171813,39419,8,Art & Design,"In Ancient Greece, a Corinthian order referred to what?",1:08:18 PM,C,Voting law,FALSE,2091,1:08:41 PM
+573,5171813,39418,9,Entertainment,Which of these country artists is NOT a member of the Grand Ole Opry?,1:08:52 PM,A,Faith Hill,TRUE,3244,1:09:10 PM
+574,5171813,39418,9,Entertainment,Which of these country artists is NOT a member of the Grand Ole Opry?,1:08:52 PM,B,Reba McEntire,FALSE,609,1:09:10 PM
+575,5171813,39418,9,Entertainment,Which of these country artists is NOT a member of the Grand Ole Opry?,1:08:52 PM,C,Blake Shelton,FALSE,2252,1:09:10 PM
+576,5171813,39423,10,Science ,Which of these astronomical terms is the name of a single star?,1:09:27 PM,A,Alpha Centauri,FALSE,2557,1:09:54 PM
+577,5171813,39423,10,Science ,Which of these astronomical terms is the name of a single star?,1:09:27 PM,B,Rigel,TRUE,449,1:09:54 PM
+578,5171813,39423,10,Science ,Which of these astronomical terms is the name of a single star?,1:09:27 PM,C,Perseus,FALSE,367,1:09:54 PM
+579,5171813,39422,11,Geography,A visit to which of these tall buildings will put you closest to Australia?,1:10:18 PM,A,Lotte World Tower,FALSE,165,1:10:51 PM
+580,5171813,39422,11,Geography,A visit to which of these tall buildings will put you closest to Australia?,1:10:18 PM,B,Burj Khalifa,FALSE,183,1:10:51 PM
+581,5171813,39422,11,Geography,A visit to which of these tall buildings will put you closest to Australia?,1:10:18 PM,C,Ping'An Finance Centre,TRUE,264,1:10:51 PM
+582,5171813,39421,12,Movies,Which of these actors has appeared in two different movies playing characters named Chazz?,1:11:25 PM,A,Dwayne Johnson,FALSE,29,1:11:54 PM
+583,5171813,39421,12,Movies,Which of these actors has appeared in two different movies playing characters named Chazz?,1:11:25 PM,B,Mark Wahlberg,FALSE,101,1:11:54 PM
+584,5171813,39421,12,Movies,Which of these actors has appeared in two different movies playing characters named Chazz?,1:11:25 PM,C,Will Ferrell,TRUE,141,1:11:54 PM
+585,5171819,37833,1,Educational,What is the term for strolling around while not fully awake?,7:04:36 PM,A,Perp walking,FALSE,4223,7:04:56 PM
+586,5171819,37833,1,Educational,What is the term for strolling around while not fully awake?,7:04:36 PM,B,Sleepwalking,TRUE,789334,7:04:56 PM
+587,5171819,37833,1,Educational,What is the term for strolling around while not fully awake?,7:04:36 PM,C,Catwalking,FALSE,4742,7:04:56 PM
+588,5171819,37837,2,Educational,A settlement that has become completely abandoned is called what?,7:05:10 PM,A,Vampire village,FALSE,3873,7:05:33 PM
+589,5171819,37837,2,Educational,A settlement that has become completely abandoned is called what?,7:05:10 PM,B,Ghost town,TRUE,771236,7:05:33 PM
+590,5171819,37837,2,Educational,A settlement that has become completely abandoned is called what?,7:05:10 PM,C,Babadook borough,FALSE,5982,7:05:33 PM
+591,5171819,37843,3,Geography,The cities of Sonoma and Napa are found in what US state?,7:05:46 PM,A,Colorado,FALSE,80611,7:06:08 PM
+592,5171819,37843,3,Geography,The cities of Sonoma and Napa are found in what US state?,7:05:46 PM,B,California,TRUE,672678,7:06:08 PM
+593,5171819,37843,3,Geography,The cities of Sonoma and Napa are found in what US state?,7:05:46 PM,C,Wine-oming,FALSE,10154,7:06:08 PM
+594,5171819,37840,4,Science ,Which of these planets has a solid surface?,7:06:22 PM,A,Mars,TRUE,563803,7:06:47 PM
+595,5171819,37840,4,Science ,Which of these planets has a solid surface?,7:06:22 PM,B,Saturn,FALSE,49962,7:06:47 PM
+596,5171819,37840,4,Science ,Which of these planets has a solid surface?,7:06:22 PM,C,Jupiter,FALSE,54095,7:06:47 PM
+597,5171819,37838,5,Educational,"In the UN organization known as WHO, what does the ""H"" stand for?",7:06:59 PM,A,Health,TRUE,487578,7:07:23 PM
+598,5171819,37838,5,Educational,"In the UN organization known as WHO, what does the ""H"" stand for?",7:06:59 PM,B,Housing,FALSE,65488,7:07:23 PM
+599,5171819,37838,5,Educational,"In the UN organization known as WHO, what does the ""H"" stand for?",7:06:59 PM,C,Happiness,FALSE,5289,7:07:23 PM
